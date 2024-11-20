@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Guy Faulconbridge",
+      "title": "Putin issues warning to US with new nuclear doctrine - Reuters",
+      "description": "The doctrine outlines the threats that would make Russia contemplate using nuclear weapons.",
+      "url": "https://www.reuters.com/world/europe/putin-issues-warning-us-with-new-nuclear-doctrine-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/FU6UC5GM3BKAFIECSV7ZVWRNTE.jpg?auth=b74883dad52f5b73f4da79f0087f2986dc42dab99a4d4cbf17c3b9d6b4baccb6&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-11-19T08:46:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Russell Contreras",
+      "title": "ACLU sues to get clues on Trump's mass deportation plans - Axios",
+      "description": "Civil liberties advocates are demanding ICE  turn over records on deportation flights",
+      "url": "https://www.axios.com/2024/11/18/trump-deportation-plan-aclu-lawsuit",
+      "urlToImage": "https://images.axios.com/xEoZM3e53RxUsSP_9XOplFUxU1M=/0x0:5000x2813/1366x768/2024/11/18/1731968555572.jpg",
+      "publishedAt": "2024-11-19T07:28:44Z",
+      "content": "Civil liberties advocates worried about President-elect Trump's plan for mass deportations are suing the federal government to get information on how authorities could rapidly remove people from the … [+3239 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "More than 40,000 protest New Zealand Maori rights bill - Al Jazeera English",
+      "description": "Although the bill is unlikely to pass, opponents say bid to reverse progress for Maori threatens to divide society.",
+      "url": "https://www.aljazeera.com/news/2024/11/19/tens-of-thousands-protest-new-zealand-maori-rights-bill",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24324011199420-1731996530.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-11-19T07:23:28Z",
+      "content": "Tens of thousands have rallied outside New Zealands Parliament to protest against a bill that critics say would hurt the rights of Maori people.\r\nAn estimated 42,000 people demonstrated on Tuesday, c… [+2435 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Toxic smog persists over India's north; Delhi pollution remains severe - Reuters India",
+      "description": "Residents in India's northern states woke up to another day of poor air quality on Tuesday, as a layer of dense fog shrouded most of the region, and pollution in the capital Delhi remained severe.",
+      "url": "https://www.reuters.com/world/india/toxic-smog-persists-over-indias-north-delhi-pollution-remains-severe-2024-11-19/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/VNZHI65LGVPS3AP3ME2ODPXD3M.jpg?auth=4b6e6fcb301a98936921c2a03642976750ab57249f98418b932fe48b76e5ecb3&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-11-19T07:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Report: Sony in Talks to Buy Kadokawa, Owner of Elden Ring and Dark Souls Developer FromSoftware - IGN",
+      "description": "Sony is reportedly in talks to buy Kadokawa, whose subsidiary FromSoftware is behind smash hit Elden Ring, the Dark Souls and Armored Core games, and PlayStation exclusive Bloodborne.",
+      "url": "https://www.ign.com/articles/report-sony-in-talks-to-buy-kadokawa-owner-of-elden-ring-and-dark-souls-developer-fromsoftware",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/06/03/eldenring-shadow-fp-blogroll-1717445459923.jpg?width=1280",
+      "publishedAt": "2024-11-19T06:54:03Z",
+      "content": "Sony is reportedly in talks to buy Kadokawa, whose subsidiary FromSoftware is behind smash hit Elden Ring, the Dark Souls and Armored Core games, and PlayStation exclusive Bloodborne.\r\nReuters report… [+1692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "The Game Awards 2024 Nominees Have Been Revealed - Zelda, Mario And Metroid Nominated - Nintendo Life",
+      "description": "And DLC is up for 'GOTY'",
+      "url": "https://www.nintendolife.com/news/2024/11/the-game-awards-2024-nominees-have-been-revealed-zelda-mario-and-metroid-nominated",
+      "urlToImage": "https://images.nintendolife.com/d7f7979dff679/1280x720.jpg",
+      "publishedAt": "2024-11-19T05:48:45Z",
+      "content": "I thought Helldivers would get nominated for either GOTY or Game Direction over Black Myth Wukong. Id argue Helldivers has better direction than all of the nominees.\r\nVery interested to see where Bes… [+1128 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Hong Kong 47: Pro-democracy icons sentenced to decades in jail - BBC.com",
+      "description": "Joshua Wong and Benny Tai were convicted for attempting subversion in a controversial national security trial.",
+      "url": "https://www.bbc.com/news/articles/cx2l4eynl4zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4104/live/4bf016a0-a643-11ef-bdf5-b7cb2fa86e10.jpg",
+      "publishedAt": "2024-11-19T05:23:54Z",
+      "content": "A Hong Kong court has sentenced key pro-democracy leaders to years in jail for subversion, following a controversial national security trial.\r\nBenny Tai and Joshua Wong were among the so-called Hong … [+5925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Cowboys set unwanted NFL record as Dallas gets destroyed again in its own stadium vs. Texans on 'MNF' - CBS Sports",
+      "description": "Dallas is in the history books for the wrong reasons",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-set-unwanted-nfl-record-as-dallas-gets-destroyed-again-in-its-own-stadium-vs-texans-on-mnf/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/19/cec19274-bff2-4cee-9847-b538566a3936/thumbnail/1200x675/eb030a22be095bb61a025fb8178407ee/cowboys.jpg",
+      "publishedAt": "2024-11-19T05:17:29Z",
+      "content": "The Dallas Cowboys' Monday evening began with a piece of their stadium's roof falling to the turf. It ended with a 34-10 loss to the Houston Texans that included some unwanted history. \r\nThe Cowboys … [+1854 chars]"
+    }
+  ]
+}
