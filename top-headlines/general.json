@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Doha Madani",
+      "title": "Jussie Smollett conviction in hate crime attack hoax overturned by Illinois Supreme Court - NBC News",
+      "description": "The conviction against actor Jussie Smollett for falsely reporting a hate crime to Chicago police in 2019 has been overturned by the Illinois Supreme Court over prosecutorial issues.",
+      "url": "https://www.nbcnews.com/news/us-news/jussie-smollett-conviction-hate-crime-attack-hoax-overturned-illinois-rcna181182",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241121-jussie-smollett-vl-1106a-357137.jpg",
+      "publishedAt": "2024-11-21T16:16:00Z",
+      "content": "The conviction against actor Jussie Smollett for falsely reporting a hate crime to Chicago police in 2019 has been overturned by the Illinois Supreme Court over prosecutorial issues.\r\nSmollett's case… [+2862 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Kyiv says Russian ICBM strikes Ukraine, but US officials describe missile as shorter-range IRBM - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/International/ukraine-russia-icbm-launch-intercontinental-ballistic-missile/story?id\\\\u003d116085317",
+      "urlToImage": null,
+      "publishedAt": "2024-11-21T15:24:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-11-21T15:22:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Diana Olick",
+      "title": "Home sales surged in October, just before mortgage rates jumped - CNBC",
+      "description": "Sales were 2.9% higher than October of last year, marking the first annual increase in over three years.",
+      "url": "https://www.cnbc.com/2024/11/21/home-sales-october.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107405140-1713884050236-gettyimages-1451825889-onecms_96cf1be3-baa9-402b-8001-9110a04041c6.jpeg?v=1726622168&w=1920&h=1080",
+      "publishedAt": "2024-11-21T15:00:01Z",
+      "content": "A sharp drop in mortgage rates brought homebuyers off the fence in October after a slow summer.\r\nSales of previously owned homes last month rose 3.4% from September to a seasonally adjusted, annualiz… [+2600 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Lucia Mutikani",
+      "title": "US weekly jobless claims hit seven-month low - Reuters",
+      "description": "The number of Americans filing new applications for unemployment benefits fell to a seven-month low last week, suggesting that job growth likely rebounded in November after abruptly slowing last month amid hurricanes and strikes.",
+      "url": "https://www.reuters.com/markets/us/us-weekly-jobless-claims-unexpectedly-fall-2024-11-21/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/52J72RXTFNKQXEGEULRPIRHNAM.jpg?auth=335823f74151477f9774f40b5006291a9b4ea0d2b7a58a515a6edf5b883144ab&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-11-21T14:44:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Timothy Smith",
+      "title": "Nvidia Stock Price Levels to Watch After Earnings Top Expectations - Investopedia",
+      "description": "Nvidia shares moved higher in premarket trading Thursday after the AI investor favorite released results and an outlook that surpassed Wall Street expectations. Monitor these important chart levels.",
+      "url": "https://www.investopedia.com/nvidia-stock-price-levels-to-watch-after-earnings-top-expectations-8749191",
+      "urlToImage": "https://www.investopedia.com/thmb/HJEIQvBlP3ZB95If9-Ll3AnlegA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NVDAChart-463cd10fa3b24a9a80d7355f00a92a7c.GIF",
+      "publishedAt": "2024-11-21T14:29:06Z",
+      "content": "<ul><li>Nvidia shares moved higher in premarket trading Thursday after the AI investor favorite released quarterly results and an outlook that surpassed Wall Street expectations.</li><li>Trading volu… [+3480 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Associated Press",
+      "title": "Police report reveals assault allegations against Hegseth - POLITICO",
+      "description": "Hegseth, President-elect Donald Trump’s nominee to be defense secretary, told police at the time that the encounter had been consensual.",
+      "url": "https://www.politico.com/news/2024/11/21/police-report-reveals-assault-allegations-against-hegseth-00190850",
+      "urlToImage": "https://static.politico.com/00/7c/440aca4a4a1886254a303bc234c3/2023-patriot-awards-show-14580.jpg",
+      "publishedAt": "2024-11-21T14:20:54Z",
+      "content": "Hegseths lawyer did not immediately respond to a request for comment early Thursday. He has said Hegseth paid the woman in 2023 to head off the threat of a baseless lawsuit.\r\nThe 22-page police repor… [+4768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "HARRISON MILLER, Investor's Business Daily",
+      "title": "Bitcoin Homes In On $100k As Trump Forms Pro-Crypto Cabinet - Investor's Business Daily",
+      "description": "Bitcoin price hit another record high above $98,000 after launching spot bitcoin ETF options. President-elect Trump names pro-crypto picks.",
+      "url": "https://www.investors.com/news/bitcoin-price-98000-record-trump-crypto-cabinet-bitcoin-options/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/12/stock-bitcoin-12-adobe.jpg",
+      "publishedAt": "2024-11-21T13:58:00Z",
+      "content": "Cryptocurrency prices upshifted yet again early Thursday as bitcoin extends its postelection rally, notching a record high above $98,000.\r\nXNOW PLAYINGDonald Trump Wins 2024 Election: What It Means F… [+5596 chars]"
+    }
+  ]
+}
