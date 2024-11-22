@@ -41,8 +41,9 @@ export default function News (props) {
 //     }
     const updateNews=async ()=>{
         props.setProgress(0);
-        let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pagesize}`;
+        let url=`https://newsapi.org/v2/top-headlines?&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pagesize}`;
         setloading(true);
+        console.log(url);
         
         props.setProgress(30);
         let data=await fetch(url);
@@ -77,7 +78,7 @@ export default function News (props) {
     // }
    const fetchData= async ()=>{
     const newPage=page+1;
-    let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${newPage}&pageSize=${props.pagesize}`;     
+    let url=`https://newsapi.org/v2/top-headlines?&category=${props.category}&apiKey=${props.apiKey}&page=${newPage}&pageSize=${props.pagesize}`;     
        setloading(true);
         let data=await fetch(url);
         let parsedData=await data.json();
@@ -140,12 +141,12 @@ export default function News (props) {
   
 }
 News.defaultProps = {
-    country: 'in',
+    
     pageSize: 8,
     category: 'general',
 }
 News.propTypes = {
-    country: PropTypes.string,
+    
     pageSize: PropTypes.number,
     category: PropTypes.string,
 }

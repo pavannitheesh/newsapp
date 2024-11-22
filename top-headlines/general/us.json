@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sec.gov"
+      },
+      "author": null,
+      "title": "SEC Chair Gensler to Depart Agency on January 20 - SEC.gov",
+      "description": null,
+      "url": "https://www.sec.gov/newsroom/press-releases/2024-182",
+      "urlToImage": null,
+      "publishedAt": "2024-11-21T18:01:14Z",
+      "content": "Washington D.C., Nov. 21, 2024 The Securities and Exchange Commission today announced that its 33rd Chair, Gary Gensler, will step down from the Commission effective at 12:00 pm on January 20, 2025. … [+8823 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Breanne Deppisch",
+      "title": "Gaetz withdraws as attorney general nominee - Fox News",
+      "description": "“While the momentum was strong, it is clear that my confirmation was unfairly becoming a distraction to the critical work of the Trump/Vance Transition,\" Gaetz said.",
+      "url": "https://www.foxnews.com/politics/gaetz-withdraws-ag-nominee",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/vancegaetz.jpg",
+      "publishedAt": "2024-11-21T17:43:12Z",
+      "content": "Matt Gaetz, the former Florida representative and Trump nominee for Attorney General, announced Thursday that he is withdrawing as Trump's pick for the top prosecutor, citing what he described as the… [+2510 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Paula Reid, Sarah Ferris",
+      "title": "EXCLUSIVE: Ethics committee told of second sexual encounter between Matt Gaetz and 17-year-old at party, sources say - CNN",
+      "description": "The woman who says she had sex when she was a minor with then-Rep. Matt Gaetz told the House Ethics Committee she had two sexual encounters with him at a party in 2017, sources familiar with her testimony tell CNN.",
+      "url": "https://www.cnn.com/2024/11/21/politics/matt-gaetz-second-sexual-encounter-minor/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1247179959.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-11-21T17:36:00Z",
+      "content": "The woman who says she had sex when she was a minor with then-Rep. Matt Gaetz told the House Ethics Committee she had two sexual encounters with him at one party in 2017, sources familiar with her te… [+2830 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": null,
+      "title": "Ellen DeGeneres and Portia De Rossi have ditched the US for rural UK after election, sources say - Salon",
+      "description": "Ellen DeGeneres and wife Portia de Rossi have left the U.S. for a quiet rural life in England",
+      "url": "https://www.salon.com/2024/11/21/ellen-degeneres-portia-de-rossi-us-uk/",
+      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/11/ellen_degeneres_portia_de_rossi_1386169383.jpg",
+      "publishedAt": "2024-11-21T17:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "247Sports"
+      },
+      "author": "Tom Loy",
+      "title": "Julian Lewis commits to Colorado, Deion Sanders as Top247 QB completes flip from USC - 247Sports",
+      "description": "Carrollton Ga High fourstar Julian Lewis 247Sports No 115 overall prospect and No 9 quarterback in college footballs 2025 recruiting class decommitted from USC Nov 17 and flipped to Deion Sanders Colorado program",
+      "url": "https://247sports.com/article/julian-lewis-commits-to-colorado-deion-sanders-as-top247-qb-completes-flip-from-usc-234531251/",
+      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/933/540/12540933.png?width=1200&height=628&crop=1.91:1&fit=cover",
+      "publishedAt": "2024-11-21T17:15:00Z",
+      "content": "Carrollton (Ga.) High quarterback Julian Lewis was committed to USC since Aug. 22, 2023. However, after a long recruitment that included plenty of twists and turns, he decommitted Nov. 17 while Troja… [+6950 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": "James Shotter, Anna Gross, Felicia Schwartz",
+      "title": "ICC issues arrest warrant for Israeli PM Benjamin Netanyahu - Financial Times",
+      "description": "Warrant also issued for former defence minister Yoav Gallant over allegations of war crimes and crimes against humanity",
+      "url": "https://www.ft.com/content/0b62f17a-97db-4817-90f8-f98adead79f0",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe70b8b87-3a81-44cd-be71-c8ed03d13e5b.jpg?source=next-barrier-page",
+      "publishedAt": "2024-11-21T17:04:33Z",
+      "content": "Try unlimited access\r\nOnly $1 for 4 weeks\r\nThen $75 per month.\r\nComplete digital access to quality FT journalism on any device. \r\nCancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "WhatsApp will soon transcribe your voice messages - The Verge",
+      "description": "WhatsApp is introducing a new transcription feature that makes it easier for iOS and Android users to communicate using voice messaging.",
+      "url": "https://www.theverge.com/2024/11/21/24302365/whatsapp-voice-message-transcription-feature-availability-ios-android",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TTHtVMuyLgJ0BaAei235MWPocJE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg",
+      "publishedAt": "2024-11-21T17:01:00Z",
+      "content": "WhatsApp will soon transcribe your voice messages\r\nWhatsApp will soon transcribe your voice messages\r\n / The feature is rolling out to iOS and Android users in the coming weeks, with voice transcript… [+1594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Joel Embiid downplays 76ers' team meeting, says whoever leaked it is 'real piece of s---' - CBS Sports",
+      "description": "Tyrese Maxey reportedly confronted Embiid about his repeated tardiness during a meeting earlier this week",
+      "url": "https://www.cbssports.com/nba/news/joel-embiid-downplays-76ers-team-meeting-says-whoever-leaked-it-is-real-piece-of-s/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/21/700f3047-cfd4-4f90-b0e3-7ef533ddcc23/thumbnail/1200x675/483a5e8fa1b75c9ba7fe66db50164697/joel-embiid-sixers-g.jpg",
+      "publishedAt": "2024-11-21T16:59:33Z",
+      "content": "After a successful summer that included signing Paul George, and a number of other veterans, in free agency and drafting Jared McCain, there was plenty of excitement about the Philadelphia 76ers this… [+2978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "PFT’s Week 12 NFL picks, Florio vs. Simms - NBC Sports",
+      "description": "All games, all picks. Straight up and ATS.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-12-nfl-picks-florio-vs-simms",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a9224a2/2147483647/strip/true/crop/3336x1877+0+174/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2F2e%2Fcc7dd52c495580fb220d969e5bf7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2184402109",
+      "publishedAt": "2024-11-21T16:55:10Z",
+      "content": "All good things come to an end.\r\nMy impressive run has gone not-so-impressive. 9-5 straight up, 5-9 against the spread. At 10-4 and 8-6, Simms picked up some ground.\r\nHes still got plenty more ground… [+2355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Briton Simone White dies after suspected mass poisoning in Laos - BBC.com",
+      "description": "The 28-year-old lawyer becomes the fifth person to die from suspected methanol poisoning.",
+      "url": "https://www.bbc.com/news/articles/cx27wyrxz9yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3de/live/f4f05a60-a82a-11ef-9c9f-85cfc89e7be6.jpg",
+      "publishedAt": "2024-11-21T16:53:11Z",
+      "content": "Simone White was holidaying in south-east Asia\r\nA British lawyer has died after a suspected methanol poisoning that is thought to have killed four others in Laos, south-east Asia.\r\nSimone White, 28, … [+3004 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JOHN O'CONNOR, SOPHIA TAREEN",
+      "title": "Jussie Smollett’s conviction in 2019 attack on himself is overturned - The Associated Press",
+      "description": "The Illinois Supreme Court has overturned actor Jussie Smollett’s conviction on charges that he staged a racist and homophobic attack against himself in 2019 and lied to Chicago police. The state’s highest court ruled Thursday on Smollett’s argument that a sp…",
+      "url": "https://apnews.com/article/jussie-smollett-conviction-overturned-chicago-91178cf27f6ef0aec8a5eef67a3a6125",
+      "urlToImage": "https://dims.apnews.com/dims4/default/aabad8f/2147483647/strip/true/crop/2879x1619+0+150/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fb68029ca0fdf4543a8f2a7fa61e48b46%2F2879.jpeg",
+      "publishedAt": "2024-11-21T16:38:00Z",
+      "content": "SPRINGFIELD, Ill. (AP) Actor Jussie Smolletts conviction on charges that he staged a racist and homophobic attack against himself in downtown Chicago in 2019 and lied to police was overturned Thursda… [+3862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "This TV Accessory Makes Me Feel Like I'm in a Theater Every Night, and It's Under $50 for Black Friday - CNET",
+      "description": "Govee's TV Backlight 3 makes your TV feel bigger and more cinematic, and this new Black Friday price is an absolute steal.",
+      "url": "https://www.cnet.com/deals/this-tv-accessory-makes-me-feel-like-im-in-a-theater-every-night-and-its-under-50-for-black-friday/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/a65f439c9c8be7fb6e7a476bc43525de26763aa3/hub/2024/11/21/70bad755-215f-4210-848e-2f92a10cd839/img-4315.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-11-21T16:12:00Z",
+      "content": "I do not have the largest TV ever, or even the largest TV among my friends and family, but there's no place I would rather be when watching a movie or playing a game at night than my couch. For the l… [+2097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Pete Hegseth: Police report details sexual assault allegations against Trump defence pick - BBC.com",
+      "description": "Hegseth, a cabinet nominee of President-elect Donald Trump, denies any wrongdoing in the 2017 encounter.",
+      "url": "https://www.bbc.com/news/articles/cg7g4rvjv7mo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cd77/live/cbf51e40-a800-11ef-b21e-5359bd56d02f.jpg",
+      "publishedAt": "2024-11-21T15:39:17Z",
+      "content": "A police report has revealed new details about an alleged sexual assault encounter in 2017 between a woman and Pete Hegseth, the man nominated by US President-elect Donald Trump to serve as the next … [+3265 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Kyiv says Russian ICBM strikes Ukraine, but US officials describe missile as shorter-range IRBM - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/International/ukraine-russia-icbm-launch-intercontinental-ballistic-missile/story?id\\\\u003d116085317",
+      "urlToImage": null,
+      "publishedAt": "2024-11-21T15:24:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Diana Olick",
+      "title": "Home sales surged in October, just before mortgage rates jumped - CNBC",
+      "description": "Sales were 2.9% higher than October of last year, marking the first annual increase in over three years.",
+      "url": "https://www.cnbc.com/2024/11/21/home-sales-october.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107405140-1713884050236-gettyimages-1451825889-onecms_96cf1be3-baa9-402b-8001-9110a04041c6.jpeg?v=1726622168&w=1920&h=1080",
+      "publishedAt": "2024-11-21T15:00:01Z",
+      "content": "A sharp drop in mortgage rates brought homebuyers off the fence in October after a slow summer.\r\nSales of previously owned homes last month rose 3.4% from September to a seasonally adjusted, annualiz… [+2600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Timothy Smith",
+      "title": "Nvidia Stock Price Levels to Watch After Earnings Top Expectations - Investopedia",
+      "description": "Nvidia shares moved higher in premarket trading Thursday after the AI investor favorite released results and an outlook that surpassed Wall Street expectations. Monitor these important chart levels.",
+      "url": "https://www.investopedia.com/nvidia-stock-price-levels-to-watch-after-earnings-top-expectations-8749191",
+      "urlToImage": "https://www.investopedia.com/thmb/HJEIQvBlP3ZB95If9-Ll3AnlegA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NVDAChart-463cd10fa3b24a9a80d7355f00a92a7c.GIF",
+      "publishedAt": "2024-11-21T14:29:06Z",
+      "content": "<ul><li>Nvidia shares moved higher in premarket trading Thursday after the AI investor favorite released quarterly results and an outlook that surpassed Wall Street expectations.</li><li>Trading volu… [+3480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "6 Hours With Avowed And I'm Already Thinking It's One Of 2025's Best Games - Kotaku",
+      "description": "Obsidian’s action-adventure RPG has a rock-solid opening",
+      "url": "https://kotaku.com/avowed-rpg-obsidian-hands-on-preview-xbox-pc-1851703825",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/13556bb4e2011ba3cc9d57819903d404.jpg",
+      "publishedAt": "2024-11-21T14:00:00Z",
+      "content": "Theres a tradition when writing previews of games that says one must hold back on judgments, as a game is not yet finished and could see enormous changes before its released. I am, however improper i… [+10801 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Isaac Schultz",
+      "title": "First Detailed Image of a Star Outside Our Galaxy Is Out of This World - Gizmodo",
+      "description": "The star offers hints at how huge stars shed gas and dim towards the ends of their lives.",
+      "url": "https://gizmodo.com/astronomers-take-remarkably-zoomed-in-image-of-red-supergiant-star-2000527117",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/star-up-close-illustration.jpg",
+      "publishedAt": "2024-11-21T13:00:17Z",
+      "content": "160,000 light-years away, a star 2,000 times the mass of the Sun is dying. Now, that star has been imaged as never beforeextremely up-closerevealing details of the star’s activity and surrounding str… [+3606 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Larry Brown Jr.",
+      "title": "Goodbye Joe Douglas, Aaron Rodgers has hijacked the New York Jets - Yahoo Sports",
+      "description": "Goodbye Joe Douglas, Aaron Rodgers has hijacked the New York Jets",
+      "url": "https://jetswire.usatoday.com/2024/11/21/goodbye-joe-douglas-aaron-rodgers-hijacked-new-york-jets-fire-fired-nfl/",
+      "urlToImage": "https://jetswire.usatoday.com/wp-content/uploads/sites/66/2024/11/01jd3qx0t73498ydttm5.jpg?w=1024&h=576&crop=1",
+      "publishedAt": "2024-11-21T12:45:06Z",
+      "content": "The 2024 return of New York Jets quarterback Aaron Rodgers has only led to turmoil and calamity for the franchise. Former head coach Robert Saleh was fired, now Pittsburgh Steelers wide receiver Mike… [+1483 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "RYAN DEFFENBAUGH, Investor's Business Daily",
+      "title": "Temu Parent Tumbles On Double Miss - Investor's Business Daily",
+      "description": "PDD Holdings, owner of Temu and Pinduoduo, missed Q3 earnings and sales views.",
+      "url": "https://www.investors.com/news/technology/pdd-stock-q3-2024-earnings-temu-pdd-holdings-news/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/08/Stock-Temuappwebsite-01-adobe.jpg",
+      "publishedAt": "2024-11-21T12:12:00Z",
+      "content": "PDD Holdings (PDD) stock tumbled early Thursday, after the Temu parent company and Chinese e-commerce giant reported third quarter earnings and sales that missed expectations.\r\nXNOW PLAYINGHow To Buy… [+3405 chars]"
+    }
+  ]
+}

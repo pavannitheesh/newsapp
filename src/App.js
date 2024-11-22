@@ -6,6 +6,7 @@ import {
 import './App.css';
 import Navbar from './components/Navbar'
 import News from './components/News'
+import New2 from './components/New2'
 import Loading from 'react-top-loading-bar'
 export default function App () {
  const pageSize=5;
@@ -23,14 +24,14 @@ const [Progress, setProgress] = useState({progress:0})
      
       
         <Routes>
-          <Route excat path='/general' element={ <News apiKey={apiKey}setProgress={setProgress} key="general" pagesize={pageSize} country={'in'} category='general'/>}></Route>
-          <Route excat path='/'  element={ <News apiKey={apiKey}setProgress={setProgress}key="Home" pagesize={pageSize} country={'in'} category='general'/>}></Route>
-          <Route excat path='/business' element={ <News apiKey={apiKey}setProgress={setProgress} key="business"  pagesize={pageSize} country={'in'} category='business'/>}></Route>
-          <Route excat path='/entertainment'  element={ <News apiKey={apiKey}setProgress={setProgress}key="entertainment" pagesize={pageSize} country={'in'} category='entertainment'/>}></Route>
-          <Route excat path='/health' element={ <News apiKey={apiKey}setProgress={setProgress} key="health" pagesize={pageSize} country={'in'} category='health'/>}></Route>
-          <Route excat path='/science' element={ <News apiKey={apiKey}setProgress={setProgress}key="science" pagesize={pageSize} country={'in'} category='science'/>}></Route>
-          <Route excat path='/sports' element={ <News apiKey={apiKey}setProgress={setProgress}key="sports"  pagesize={pageSize} country={'in'} category='sports'/>}></Route>
-          <Route excat path='/technology'  element={ <News apiKey={apiKey}setProgress={setProgress}key="technology" pagesize={pageSize} country={'in'} category='technology'/>}></Route>
+          <Route excat path='/general' element={ <New2 apiKey={apiKey}setProgress={setProgress} key="general" pagesize={pageSize}  category='general'/>}></Route>
+          <Route excat path='/'  element={ <New2 apiKey={apiKey}setProgress={setProgress}key="Home" pagesize={pageSize}  category='general'/>}></Route>
+          <Route excat path='/business' element={ <New2 apiKey={apiKey}setProgress={setProgress} key="business"  pagesize={pageSize}  category='business'/>}></Route>
+          <Route excat path='/entertainment'  element={ <New2 apiKey={apiKey}setProgress={setProgress}key="entertainment" pagesize={pageSize}  category='entertainment'/>}></Route>
+          <Route excat path='/health' element={ <New2 apiKey={apiKey}setProgress={setProgress} key="health" pagesize={pageSize}  category='health'/>}></Route>
+          <Route excat path='/science' element={ <New2 apiKey={apiKey}setProgress={setProgress}key="science" pagesize={pageSize}  category='science'/>}></Route>
+          <Route excat path='/sports' element={ <New2 apiKey={apiKey}setProgress={setProgress}key="sports"  pagesize={pageSize}  category='sports'/>}></Route>
+          <Route excat path='/technology'  element={ <New2 apiKey={apiKey}setProgress={setProgress}key="technology" pagesize={pageSize}  category='technology'/>}></Route>
 
         </Routes>
 
