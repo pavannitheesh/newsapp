@@ -1,19 +1,201 @@
 {
   "status": "ok",
-  "totalResults": 65,
+  "totalResults": 66,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-02T23:45:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Violence Exposure and Firearms Linked to Teen Suicide Risks - Neuroscience News",
+      "description": "A study of U.S. high school students reveals a strong link between suicidal behavior, externalizing behaviors (such as physical violence), and exposure to violence.",
+      "url": "https://neurosciencenews.com/violence-guns-teen-suicide-psychology-28160/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/violence-guns-teen-suicide-neuroscience.jpg",
+      "publishedAt": "2024-12-02T22:20:50Z",
+      "content": "Summary: A study of U.S. high school students reveals a strong link between suicidal behavior, externalizing behaviors (such as physical violence), and exposure to violence. Adolescents with a histor… [+6580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Six Plant-Based Compounds Show Neuroprotective Potential - Neuroscience News",
+      "description": "Researchers identified specific plant compounds that provide antioxidant and neuroprotective effects, contributing to brain health beyond basic nutrition.",
+      "url": "https://neurosciencenews.com/neuroprotection-plant-compounds-28157/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/plant-compounds-brain-health-neurosicence.jpg",
+      "publishedAt": "2024-12-02T21:25:56Z",
+      "content": "Summary: Researchers identified specific plant compounds that provide antioxidant and neuroprotective effects, contributing to brain health beyond basic nutrition. By analyzing plant-based foods like… [+6658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Ariana Bindman",
+      "title": "3 patients hospitalized in Calif. die of 'severe' tickborne illness, CDC says - SFGATE",
+      "description": "Three patients hospitalized in California died of a \"severe\" tickborne illness after visiting Tecate, a region in Northern Mexico.",
+      "url": "https://www.sfgate.com/bayarea/article/tick-disease-death-california-mexico-19954204.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/46/22/07/26812906/3/rawImage.jpg",
+      "publishedAt": "2024-12-02T21:22:24Z",
+      "content": "FILE: A close-up view of a male brown dog tick (Rhipicephalus sanguineus) on a leaf.\r\nCDC via Getty Images\r\nThree people hospitalized in California died from Rocky Mountain spotted fever, a severe ti… [+2456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "California Teacher Dies From Rare Rabies Infection After Bat Encounter in Classroom - Gizmodo",
+      "description": "60-year-old Fresno resident Leah Seneng was reportedly killed by a rabies infection that she likely caught from a bat that had wandered into her classroom.",
+      "url": "https://gizmodo.com/california-teacher-dies-from-rare-rabies-infection-after-bat-encounter-in-classroom-2000532968",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/Bat-colony.jpg",
+      "publishedAt": "2024-12-02T21:10:00Z",
+      "content": "A California art teacher’s discovery of a bat in her classroom earlier this October has ended in tragedy. The teacher died from a rare but deadly rabies infection likely caught from the bat’s bite.\r\n… [+4235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-02T20:58:58Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jamaica Gleaner"
+      },
+      "author": null,
+      "title": "Kayodi Satchell killed 8-y-o Daniel Rowe after allegedly contracting HIV from the child's father - Jamaica Gleaner",
+      "description": "The sentencing hearing for dental assistant Kayodi Satchell, who admitted to slashing eight-year-old Danielle Rowe's throat last year June, this afternoon heard that the child was murdered after the killer contracted HIV from the child's...",
+      "url": "https://jamaica-gleaner.com/article/news/20241202/kayodi-satchell-killed-8-y-o-daniel-rowe-after-allegedly-contracting-hiv",
+      "urlToImage": "https://jamaica-gleaner.com/sites/default/files/styles/250px/public/media/article_images/2024/12/02/danielle_rowe.jpg?itok=vIIeNu3w",
+      "publishedAt": "2024-12-02T20:57:04Z",
+      "content": "The sentencing hearing for dental assistant Kayodi Satchell, who admitted to slashing eight-year-old Danielle Rowe's throat last year June, this afternoon heard that the child was murdered after the … [+1792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Personal Gut Environments Shape How We Digest, Absorb Food - Neuroscience News",
+      "description": "Individual differences in gut physiology and environment play a major role in shaping our gut microbiome and how we process food.",
+      "url": "https://neurosciencenews.com/individual-microbiome-metabolism-28155/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/microbiome-ingestion-neurosicence.jpg",
+      "publishedAt": "2024-12-02T20:26:19Z",
+      "content": "Summary: Individual differences in gut physiology and environment play a major role in shaping our gut microbiome and how we process food. Using a smart capsule to measure pH, temperature, and pressu… [+7727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Runner's World (UK)"
+      },
+      "author": "Madeleine Haase",
+      "title": "Scientists Say Walking This Much Could Add 11 Years to Your Life - Yahoo Life",
+      "description": "Walking a certain amount of time each day could add up to 11 years to your life, new study finds. Experts explain walking benefits for longevity.",
+      "url": "https://www.runnersworld.com/nutrition-weight-loss/a63072341/walking-adds-11-years-to-life-study/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GeuZ3RI6v4w3KO8fZ6SjnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/hearst_runners_world_631/cc31206a0011cf22cac052dbdf9c85a0",
+      "publishedAt": "2024-12-02T19:36:00Z",
+      "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\n<ul><li>Walking a certain amount of time each day could extend your life, new research finds.\r\n</li><li… [+4100 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jamie Gumbrecht",
+      "title": "California suspends distribution of Raw Farm raw milk products after bird flu detection - CNN",
+      "description": "Distribution of Raw Farm raw milk products has been suspended after bird flu virus was found in milk samples, the California Department of Food and Agriculture said.",
+      "url": "https://www.cnn.com/2024/12/02/health/raw-farm-raw-milk-products-distribution-suspended-california/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187132467.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-02T19:33:00Z",
+      "content": "Distribution of Raw Farm raw milk products has been suspended after bird flu virus was found in milk samples, the California Department of Food and Agriculture said.\r\nAll Raw Farm operations are curr… [+3862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Ketone Bodies Clear Damaged Proteins in the Brain - Neuroscience News",
+      "description": "Ketone bodies, known for their role in energy metabolism during fasting, have been shown to directly interact with damaged proteins in the brain, aiding their clearance through autophagy.",
+      "url": "https://neurosciencenews.com/ketone-bodies-autophagy-28154/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/ketone-bodies-autophagy-neurosicence.jpg",
+      "publishedAt": "2024-12-02T19:10:18Z",
+      "content": "Summary: Ketone bodies, known for their role in energy metabolism during fasting, have been shown to directly interact with damaged proteins in the brain, aiding their clearance through autophagy. Re… [+7711 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "New York Post"
       },
-      "author": "Paula Froelich",
-      "title": "The hot new trend? A non-surgical facelift with no downtime - New York Post ",
-      "description": "This time of year, the phones at plastic surgeon Jon Turk’s Upper East Side office are ringing off the hook as men and women across the United States call looking for “refreshment” before the holid…",
-      "url": "https://nypost.com/2024/11/21/lifestyle/the-hot-new-trend-a-non-surgical-facelift-with-no-downtime/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/before-after-1.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-11-21T15:52:00Z",
-      "content": "This time of year, the phones at plastic surgeon Jon Turks Upper East Side office are ringing off the hook as men and women across the United States call looking for refreshment before the holidays. … [+3519 chars]"
+      "author": "Carly Stern",
+      "title": "Your periods are more likely to be painful if you have this seemingly unrelated condition - New York Post ",
+      "description": "While there are plenty of reproductive issues that can lead to worse periods — fibroids, endometriosis, and cervical stenosis, to name a few — new research suggests that another issue could be a bi…",
+      "url": "https://nypost.com/2024/12/02/lifestyle/your-periods-may-be-more-painful-if-you-have-this-condition/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/94634276.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-12-02T18:55:00Z",
+      "content": "If your periods are a real pain, something else entirely could be to blame.\r\nWhile there are plenty of reproductive issues that can lead to worse periods fibroids, endometriosis, and cervical stenosi… [+2325 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Deidre McPhillips",
+      "title": "Respiratory illness season begins to ramp up now. Here’s what’s already starting to hit - CNN",
+      "description": "Respiratory disease season is off to a relatively slow start in the United States, but low vaccination rates threaten that trend and the rapid rise of some illnesses is already putting children at increased risk.",
+      "url": "https://www.cnn.com/2024/12/02/health/respiratory-disease-season-start-vaccination-children/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-525444523.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-02T18:47:00Z",
+      "content": "Despite a relatively slow start to respiratory disease season, low vaccination rates threaten that trend and the rapid rise of some illnesses is already putting children at increased risk.\r\nOverall, … [+5994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Women's Health"
+      },
+      "author": "Korin Miller",
+      "title": "This Nighttime Habit Could Be A Key Indicator Of Dementia. Neurologists Explain The Warning Signs - AOL",
+      "description": "According to a new study published in Neurology, poor sleep is linked to a higher risk of dementia. Neurologists explain the link—and how to prevent dementia...",
+      "url": "https://www.womenshealthmag.com/health/a63010447/sleep-dementia-study/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YsYRsbw8K3Ncy7g746ymAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_womens_health_917/eeeff1797d6eb003a8f6970598f8065f",
+      "publishedAt": "2024-12-02T18:21:27Z",
+      "content": "How Your Sleep Affects Dementia RiskJulPo - Getty Images\r\n\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\nGood sleep is crucial for your overall health… [+4650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Parkinson's News Today"
+      },
+      "author": "Mollie Lombardi",
+      "title": "The day my husband was diagnosed with early-onset caregiving - Parkinson's News Today",
+      "description": "Columnist Mollie Lombardi shares how her early-onset Parkinson's disease diagnosis has affected her husband and their marriage.",
+      "url": "https://parkinsonsnewstoday.com/columns/day-husband-diagnosed-early-onset-caregiving/",
+      "urlToImage": "https://parkinsonsnewstoday.com/wp-content/uploads/2024/10/IMG_1537-1200x630-cropped.png",
+      "publishedAt": "2024-12-02T17:58:51Z",
+      "content": "Its a big deal to be the girl who has Parkinsons. Its also a big deal to be the guy whose wife has Parkinson’s.\r\nBack in September 2013, I was diagnosed with early-onset Parkinsons disease at the age… [+3801 chars]"
     },
     {
       "source": {
@@ -21,38 +203,38 @@
         "name": "Neurosciencenews.com"
       },
       "author": "Neuroscience News",
-      "title": "Stimulating the Vagus Nerve to Tackle Gut Inflammation in IBD - Neuroscience News",
-      "description": "Researchers have discovered that vagus nerve stimulation may reduce gut inflammation and improve outcomes for inflammatory bowel disease (IBD).",
-      "url": "https://neurosciencenews.com/vagus-nerve-stimulation-inflammation-ibd-28099/",
-      "urlToImage": "https://neurosciencenews.com/files/2024/11/vng-inflammation-ibs-neurosicence.jpg",
-      "publishedAt": "2024-11-21T13:59:28Z",
-      "content": "Summary: Researchers have discovered that vagus nerve stimulation may reduce gut inflammation and improve outcomes for inflammatory bowel disease (IBD). The study reveals how electrical stimulation o… [+5620 chars]"
+      "title": "How Alcohol Increases Pain Tolerance, and Aggression - Neuroscience News",
+      "description": "Alcohol not only raises pain tolerance but also amplifies aggression, according to a new study.",
+      "url": "https://neurosciencenews.com/alcohol-aggression-pain-psychology-28153/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/alcohol-pain-aggression-neurosicence.jpg",
+      "publishedAt": "2024-12-02T17:39:47Z",
+      "content": "Summary: Alcohol not only raises pain tolerance but also amplifies aggression, according to a new study. Researchers found that participants who drank alcohol had higher pain thresholds and were more… [+7148 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Minneapolis Star Tribune"
+        "name": "[Removed]"
       },
-      "author": "Chloe Johnson, Chloe Johnson",
-      "title": "Some Minnesota honeybees disappeared this fall. Blame mites and a warm autumn - Star Tribune",
-      "description": "One Orono apiarist said a whole hive vanished a week ago, leaving only honey behind. Other keepers have reported the same problem.",
-      "url": "https://www.startribune.com/some-minnesota-honeybees-disappeared-this-fall-blame-mites-and-a-warm-autumn/601184699",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/T5TPQCR3WDHETAIWPYBL5JR6IQ.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "publishedAt": "2024-11-21T13:01:37Z",
-      "content": "An additional factor made the mites worse this year, however: a warm fall that has allowed queen bees to keep laying eggs long past when they usually would, Spivak said. If the brood keeps growing af… [+1441 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-02T17:30:22Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
-        "name": "Minneapolis Star Tribune"
+        "name": "Gizmodo.com"
       },
-      "author": "Laura Yuen, Laura Yuen",
-      "title": "Yuen: Breast cancer in young women is on the rise. One survivor is talking about it – and all things ‘Tetas.’ - Star Tribune",
-      "description": "A scary diagnosis inspired this 39-year-old Minnesotan to push for breast cancer awareness, particularly in younger women and the Latino community.",
-      "url": "https://www.startribune.com/yuen-breast-cancer-in-young-women-is-on-the-rise-one-survivor-is-talking-about-it-and-all-things-tetas/601184700",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/4MMQJTKFL5FHXG3F4VKYQSG4BA.jpg?&w=1200&ar=1.91:1&fit=crop",
-      "publishedAt": "2024-11-21T13:00:46Z",
-      "content": "Vanessa Berrueta Zambrano followed her instincts this past spring when she felt a lump about the size of a piece of popcorn in her right breast. She knew she needed answers. But her clinic told her t… [+1873 chars]"
+      "author": "Ed Cara",
+      "title": "Scientists Uncover ‘Game-Changing’ Therapy for Asthma Attacks - Gizmodo",
+      "description": "The antibody drug benralizumab is on the fast track to becoming the first new treatment for certain kinds of asthma and COPD flare-ups seen in 50 years, following new promising clinical trial data.",
+      "url": "https://gizmodo.com/scientists-uncover-game-changing-therapy-for-asthma-attacks-2000532798",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/12/Man-wheezing.jpg",
+      "publishedAt": "2024-12-02T17:30:14Z",
+      "content": "People living with asthma or chronic obstructive pulmonary disease may soon have a new treatment for their symptoms. A recent major clinical trial has shown that an antibody drug can prevent and redu… [+4462 chars]"
     },
     {
       "source": {
@@ -60,207 +242,25 @@
         "name": "Neurosciencenews.com"
       },
       "author": "Neuroscience News",
-      "title": "Cannabis Worsens Brain Connectivity Deficits in Psychosis Risk - Neuroscience News",
-      "description": "Young adults at risk of psychosis show reduced synaptic density, a critical brain connectivity deficit that cannabis use appears to exacerbate, according to new research.",
-      "url": "https://neurosciencenews.com/cud-synapses-neurodevelopment-psychosis-28097/",
-      "urlToImage": "https://neurosciencenews.com/files/2024/11/psychosis-neurodevelopment-cud-neuroscience.jpg",
-      "publishedAt": "2024-11-21T12:59:05Z",
-      "content": "Summary: Young adults at risk of psychosis show reduced synaptic density, a critical brain connectivity deficit that cannabis use appears to exacerbate, according to new research. The study revealed … [+6390 chars]"
+      "title": "Visceral Fat May Indicate Alzheimer’s Risk Decades Before Symptoms - Neuroscience News",
+      "description": "A new study links visceral fat, a deep layer of abdominal fat, to increased brain amyloid and tau proteins—key markers of Alzheimer’s disease—decades before dementia symptoms arise.",
+      "url": "https://neurosciencenews.com/visceral-fat-alzheimers-28152/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/visceral-fat-alzheimers-neuroscience.jpg",
+      "publishedAt": "2024-12-02T17:26:48Z",
+      "content": "Summary: A new study links visceral fat, a deep layer of abdominal fat, to increased brain amyloid and tau proteinskey markers of Alzheimers diseasedecades before dementia symptoms arise. Researchers… [+7123 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "San Francisco Chronicle"
+        "name": "PsyPost"
       },
-      "author": "Maggie Angst, Catherine Ho, Gabrielle Lurie",
-      "title": "She didn’t know she was pregnant. But a surprise birth wasn’t enough to loosen fentanyl’s grip - San Francisco Chronicle",
-      "description": "Unexpectedly giving birth was the latest in Jessica DiDia’s life, one lived in the public eye through homelessness and addiction on San Francisco’s streets.",
-      "url": "https://www.sfchronicle.com/sf/article/jessica-fentanyl-birth-19914170.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/46/10/53/26774226/3/rawImage.jpg",
-      "publishedAt": "2024-11-21T12:12:27Z",
-      "content": "Jessica DiDia was accustomed to her body feeling broken her limbs swollen, her muscles aching. And after years of living on San Franciscos streets in the grip of fentanyl, she was no stranger to the … [+12319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Indiandefencereview.com"
-      },
-      "author": null,
-      "title": "Researchers Have Deciphered the \"Death Wave\" in the Brain - Indian Defence Review",
-      "description": "The human brain, a marvel of biological complexity, continues to reveal its mysteries even in death. Recent groundbreaking research has uncovered the enigmatic \"death wave,\" a phenomenon that occurs in the brain during oxygen deprivation. This discovery not o…",
-      "url": "https://indiandefencereview.com/researchers-have-deciphered-the-death-wave-in-the-brain/",
-      "urlToImage": "https://bunny-wp-pullzone-lkleiycady.b-cdn.net/wp-content/uploads/2023/11/researchers-have-deciphered-the-death-wave-in-the-brain.jpg",
-      "publishedAt": "2024-11-21T12:05:00Z",
-      "content": "Scientists at the Brain Institute have made a significant breakthrough in understanding brain activity at the moment of death. For the first time, they have observed a specific wave, dubbed the “deat… [+5297 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Brenda Goodman",
-      "title": "Bird flu virus isolated from hospitalized Canadian teen shows signs of human adaptation - CNN",
-      "description": "The avian flu virus isolated from a hospitalized teenager in Vancouver has mutations in key areas that could help the virus spread more easily in humans, scientists say.",
-      "url": "https://www.cnn.com/2024/11/21/health/bird-flu-virus-mutations-canada-teen/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1134489551.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-11-21T12:00:00Z",
-      "content": "The avian flu virus isolated from a hospitalized teenager in Vancouver has mutations in key areas that could help the virus spread more easily in humans, scientists say.\r\nThere is no indication that … [+5305 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Indiandefencereview.com"
-      },
-      "author": null,
-      "title": "Alzheimer’s: A study reveals new culprits in the disease that could change treatment - Indian Defence Review",
-      "description": "The scientific community has long held a singular view of Alzheimer's disease, but groundbreaking research is challenging this perspective. A recent study published in Cell Reports Medicine suggests that the culprits behind this devastating condition may be m…",
-      "url": "https://indiandefencereview.com/alzheimers-breakthrough-study-identifies-new-culprits-that-could-revolutionize-treatment/",
-      "urlToImage": "https://bunny-wp-pullzone-lkleiycady.b-cdn.net/wp-content/uploads/2025/06/alzheimers-breakthrough-study-identifies-new-culprits-that-could-revolutionize-treatment.jpg",
-      "publishedAt": "2024-11-21T11:10:00Z",
-      "content": "For decades, scientists have focused on beta-amyloid plaques as the primary cause of Alzheimer’s disease. These protein deposits accumulate in the brains of patients, disrupting neural communication … [+4288 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Kaitlin Reilly",
-      "title": "Ashwagandha supplements claim to lower your cortisol and reduce stress. Do they work and are they safe? - Yahoo Life",
-      "description": "Can ashwagandha, which is all over TikTok shop, really help you de-stress?",
-      "url": "https://www.yahoo.com/lifestyle/ashwagandha-supplements-claim-to-lower-your-cortisol-and-reduce-stress-do-they-work-and-are-they-safe-110025031.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/f6Xs6Ga0awAci68IYVZcPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/7a7a1400-a75e-11ef-bff7-13c8feae1efa",
-      "publishedAt": "2024-11-21T11:00:25Z",
-      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nI… [+5460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-11-21T10:56:08Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Katie Hunt, CNN",
-      "title": "Atlas of cells offers a milestone leap in understanding of the human body - Yahoo! Voices",
-      "description": "An ambitious project launched in 2016 has made a dent in one of biology’s greatest challenges — with more than 3,600 researchers profiling more than 100...",
-      "url": "https://www.cnn.com/2024/11/21/science/atlas-cells-human-biology-body/index.html",
-      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/f4e5d3bb0383388e234e36dbb853e2d7",
-      "publishedAt": "2024-11-21T10:47:47Z",
-      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nS… [+6758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Salon"
-      },
-      "author": null,
-      "title": "Could Ozempic be our next tool in fighting the overdose crisis? Surprising research suggests so - Salon",
-      "description": "Surprising research strongly suggests semaglutide can fight substance use disorder. Why aren't we using it?",
-      "url": "https://www.salon.com/2024/11/21/could-ozempic-be-our-next-tool-in-fighting-the-overdose-crisis-surprising-research-suggests-so/",
-      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/11/ozempic_semaglutide_2177724856.jpg",
-      "publishedAt": "2024-11-21T10:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Alexa Mikhail",
-      "title": "Women over 40 swear by a simple hack to build strength and counter aging - Fortune",
-      "description": "TikTok's leading menopause doctor swears by the weighted vest to counter age-related muscle loss.",
-      "url": "https://fortune.com/well/article/weighted-vest-women-over-40-menopause/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/heidi-seigel-mary-claire-haver-menopause-hack-longevity.jpg?resize=1200,600",
-      "publishedAt": "2024-11-21T10:29:00Z",
-      "content": "While it may sound counterintuitive, a growing number of women are opting to carry even more weight on their shoulders.In pursuit of preserving strength, a slew of middle-aged women are purchasing we… [+5534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-11-21T10:23:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "New Discovery Shows How Gut Hormones Could Hold the Secret to a Longer Life - SciTechDaily",
-      "description": "The discovery of a gut-to-brain regulation pathway in flies highlights the potential for certain medications to be further explored as treatments for obesity and diabetes in humans. Researchers at Brown University have uncovered how a neuropeptide hormone pro…",
-      "url": "https://scitechdaily.com/new-discovery-shows-how-gut-hormones-could-hold-the-secret-to-a-longer-life/",
-      "urlToImage": "https://scitechdaily.com/images/Gut-Bacteria-Microbiome.jpg",
-      "publishedAt": "2024-11-21T09:01:38Z",
-      "content": "Brown University researchers discovered that a gut hormone in flies controls lifespan by regulating insulin and other hormones, suggesting similar mechanisms may influence human aging. The study unde… [+4386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The 6 Best Foods for Your Immune System, According to Dietitians - EatingWell",
-      "description": "Dietitians explain how eating more of these immunity-supporting foods can help you stay healthy and vibrant all winter long.",
-      "url": "https://www.eatingwell.com/best-foods-for-your-immune-system-8747497",
-      "urlToImage": "https://www.eatingwell.com/thmb/eeVmMLl7536GNpgw2vugICUEP7s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Six-Best-Foods-for-Your-Immune-System-fac957f87059452b90b799e27941f1d0.jpg",
-      "publishedAt": "2024-11-21T02:55:56Z",
-      "content": "With cold and flu season around the corner, building a strong immune system is essential for staying healthy and warding off illness. Research shows that eating a balanced diet filled with nutrient-r… [+7101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "2024-11-21T02:02:00Z",
-      "content": "[Removed]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "The Wall Street Journal",
-      "title": "How to Maximize the Surprising Upsides to Aging - The Wall Street Journal",
-      "description": null,
-      "url": "https://www.wsj.com/health/wellness/aging-living-longer-benefits-70a248d9",
-      "urlToImage": null,
-      "publishedAt": "2024-11-21T02:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Mark Johnson, Sabrina Malhi",
-      "title": "CDC warns of infection spread via body lice in homeless populations - The Washington Post",
-      "description": "Papers from the CDC highlights public health concerns over the difficulty of identifying and treating B. quintana among homeless populations.",
-      "url": "https://www.washingtonpost.com/science/2024/11/20/body-lice-bacterial-infection-cdc-homelessness/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z4LAFXG3YPHHK3IOMNJKMTP7EU_size-normalized.jpg&w=1440",
-      "publishedAt": "2024-11-21T01:00:00Z",
-      "content": "A rare disease spread by body lice poses a danger to people experiencing homelessness and others who have received organ transplants from the infected, according to three papers released Wednesday by… [+339 chars]"
+      "author": "Eric W. Dolan",
+      "title": "Neuroscience research finds brain changes linked to improvements during hoarding disorder treatment - PsyPost",
+      "description": "A recent study found associations between cognitive-behavioral therapy for hoarding disorder, reduced maladaptive beliefs about possessions, and changes in brain activity during discarding tasks.",
+      "url": "https://www.psypost.org/neuroscience-research-finds-brain-changes-linked-to-improvements-during-hoarding-disorder-treatment/",
+      "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/11/scientists-examining-brain-scans.jpg",
+      "publishedAt": "2024-12-02T17:17:38Z",
+      "content": "A new study published in the Journal of Psychiatric Research sheds light on how cognitive-behavioral therapy (CBT) for hoarding disorder influences brain activity, reflecting reductions in maladaptiv… [+6833 chars]"
     }
   ]
 }
