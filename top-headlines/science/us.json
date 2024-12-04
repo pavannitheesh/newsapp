@@ -1,32 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 69,
+  "totalResults": 47,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "The Daily Galaxy --Great Discoveries Channel"
+        "name": "Space.com"
       },
-      "author": null,
-      "title": "Astronauts Reveal Why the ‘Most Terrifying Thing an Astronaut Can Ever Do’ Is Coming Back to Earth - The Daily Galaxy --Great Discoveries Channel",
-      "description": "Re-entering Earth's atmosphere is often described as the most terrifying challenge astronauts face. Hurtling at hypersonic speeds through blazing plasma, they confront extreme heat, intense g-forces, and the thin line between success and catastrophe.",
-      "url": "https://dailygalaxy.com/2024/11/astronauts-reveal-why-the-most-terrifying-thing-an-astronaut-can-ever-do-is-coming-back-to-earth/",
-      "urlToImage": "https://bunny-wp-pullzone-eduayjtzy5.b-cdn.net/wp-content/uploads/2024/11/Astronauts-inside-a-spaceship-coming-back-to-the-earth.jpg",
-      "publishedAt": "2024-11-21T17:56:18Z",
-      "content": "The notion of leaving Earth’s atmosphere for the vast unknown of space has long captured humanity’s imagination. Yet for astronauts, the most perilous aspect of space exploration is not the journey i… [+2878 chars]"
+      "author": "Mike Wall",
+      "title": "Broken water pipe knocks out data processing for NASA sun-studying spacecraft - Space.com",
+      "description": "\"The damage is extensive and [repairs] will not be completed until 2025.\"",
+      "url": "https://www.space.com/the-universe/sun/broken-water-pipe-knocks-out-data-processing-for-nasa-sun-studying-spacecraft",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BBPQMNqQqQcRg4QWYngcbe-1200-80.jpg",
+      "publishedAt": "2024-12-02T22:00:00Z",
+      "content": "Scientists won't be able to process much of the data gathered by NASA's Solar Dynamics Observatory (SDO) and IRIS spacecraft for a while, thanks to a burst water pipe.\r\nThat pipe — a 4-inch-wide (10 … [+2103 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Space.com",
+      "title": "BepiColombo probe captures haunting Mercury image on 5th of 6 gravity assist flybys (photo) - Space.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUpKTHpCS25oRmcxTVRZMXJsYk9KYnJkQlRLTjBVLUVHcWxOczFSQ3ZqNE5LdlRQV00tZzA0WW9fdXJTVFdtRFZURTRpN0psQnhMNl9tWnNkMS1jdVZHOThaSDhpeXBQTDZyMlhUV2pSb0x3NEtvUlpGcHZFbmdZQVRnMW0tMkxnci1JSXA1MXJKZVdZMmtHUTVmVEZ1RGh5ODdDazNVYUQ3XzlfMGdqVHIxNkxLZmJhc084Zm54bnBGRlhOalZ5WnoxNGw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-02T21:45:37Z",
+      "content": null
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Stephen Clark",
-      "title": "NASA begins assembling rocket to send astronauts around far side of the Moon - Ars Technica",
-      "description": "NASA expects it to take about four months to fully assemble the main parts of the SLS rocket.",
-      "url": "https://arstechnica.com/space/2024/11/nasa-begins-assembling-rocket-to-send-astronauts-around-far-side-of-the-moon/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/54154424957_514d722cb4_6k-1152x648.jpg",
-      "publishedAt": "2024-11-21T17:50:04Z",
+      "author": "Elizabeth Rayne",
+      "title": "Researchers finally identify the ocean’s “mystery mollusk” - Ars Technica",
+      "description": "It’s a nudibranch, but so distantly related that it gets its own phylogenetic family.",
+      "url": "https://arstechnica.com/science/2024/12/glowing-sea-slug-behaves-like-a-jellyfish-lizard-and-venus-flytrap/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/image-1152x648.jpeg",
+      "publishedAt": "2024-12-02T20:32:34Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Gemma Lavender",
+      "title": "I'm a pro astronomer — here are my favorite telescope deals - Space.com",
+      "description": "I've tried and tested many telescopes over the years to ensure you're choosing the right kit for you. These five steals offer superb views of planets, galaxies, nebulas and stars.",
+      "url": "https://www.space.com/stargazing/astronomy-kit/im-a-pro-astronomer-and-have-been-skywatching-for-over-25-years-these-are-the-best-black-friday-telescope-deals-ive-seen-so-far",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5oY5GZK7PyZumvhydSivoe-1200-80.jpg",
+      "publishedAt": "2024-12-02T20:30:34Z",
+      "content": "Spending over 25 years observing the night sky, I have come to appreciate what makes a great telescope — from the build quality and accessories on offer, to the optical performance and portability.\r\n… [+1694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "",
+      "title": "U.S. Air Force awards Varda $48 million to test payloads on reentry capsules - SpaceNews",
+      "description": "The Air Force Research Laboratory will leverage Varda Space’s reentry capsules to test various payloads",
+      "url": "https://spacenews.com/u-s-air-force-awards-varda-48-million-to-test-payloads-on-reentry-capsules/",
+      "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/04/varda-capsule-chute.jpg?fit=1024%2C682&ssl=1",
+      "publishedAt": "2024-12-02T20:30:00Z",
+      "content": "WASHINGTON Varda Space Industries secured a $48 million contract from the U.S. Air Force Research Laboratory to test military payloads on the companys reentry capsules. \r\nA California-based startup f… [+1979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Victor Tangermann",
+      "title": "Scientists Intrigued by Large Dark Shapes Appearing on Surface of Jupiter - Futurism",
+      "description": "Researchers have observed mysterious, \"dark ovals,\" each roughly the size of the Earth, dotting the polar regions of Jupiter.",
+      "url": "https://futurism.com/the-byte/scientists-intrigued-large-dark-shapes-jupiter",
+      "urlToImage": "https://wordpress-assets.futurism.com/2024/12/scientists-intrigued-large-dark-shapes-jupiter.jpg",
+      "publishedAt": "2024-12-02T19:33:27Z",
+      "content": "Something's up.\r\nMagnetic Tornadoes\r\nResearchers have observed mysterious \"dark ovals,\" each roughly the size of the Earth, appearing on the polar regions of Jupiter on the ultraviolet spectrum.\r\nThe… [+3016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "SETI tracks distorted signals from distant pulsars with data from destroyed Arecibo Observatory - Space.com",
+      "description": "\"Even years after the Arecibo Observatory's collapse, its data continues to unlock critical information that can advance our understanding of the galaxy.\"",
+      "url": "https://www.space.com/arecibo-seti-pulsars-cosmic-lighthouses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FBkzNLfV8mRJFfpSZuVFEP-1200-80.png",
+      "publishedAt": "2024-12-02T19:00:00Z",
+      "content": "You can knock a good telescope out, but you can't keep it down. Using data from the now-destroyed Arecibo radio telescope, scientists from the Search for Extraterrestrial Intelligence (SETI) Institut… [+4395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Kristina Killgrove",
+      "title": "New, big-headed archaic humans discovered: Who is Homo juluensis? - Livescience.com",
+      "description": "Researchers have named a new species in the Homo genus. What do we know about these \"big headed\" people?",
+      "url": "https://www.livescience.com/archaeology/new-big-headed-archaic-humans-discovered-who-is-homo-juluensis",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LAyE6oyhwuX4V83DvbbQvL-1200-80.png",
+      "publishedAt": "2024-12-02T18:52:24Z",
+      "content": "Researchers have identified a new species of ancient humans, which they have named Homo juluensis, meaning \"big head,\" based partly on a very large skull found in China.\r\nBut what is this new species… [+5106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Tom Dinki",
+      "title": "Evidence of primordial black holes may be hiding in planets, or even everyday objects here on Earth - Phys.org",
+      "description": "Imagine the formation of a black hole and you'll probably envision a massive star running out of fuel and collapsing in on itself. Yet the chaotic conditions of the early universe may have also allowed many small black holes to form long before the first star…",
+      "url": "https://phys.org/news/2024-12-evidence-primordial-black-holes-planets.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/evidence-of-primordial.jpg",
+      "publishedAt": "2024-12-02T17:35:27Z",
+      "content": "Imagine the formation of a black hole and you'll probably envision a massive star running out of fuel and collapsing in on itself. Yet the chaotic conditions of the early universe may have also allow… [+6735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-02T17:25:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
@@ -34,142 +138,103 @@
         "name": "Neurosciencenews.com"
       },
       "author": "Neuroscience News",
-      "title": "Athletes Show Working Memory Edge Over Sedentary People - Neuroscience News",
-      "description": "A meta-analysis comparing athletes to non-athletes found that athletes consistently outperformed in working memory tasks, with the advantage most notable over sedentary individuals.",
-      "url": "https://neurosciencenews.com/athletes-working-memory-28101/",
-      "urlToImage": "https://neurosciencenews.com/files/2024/11/athelets-memory-neurosicence.jpg",
-      "publishedAt": "2024-11-21T14:26:32Z",
-      "content": "Summary: A meta-analysis comparing athletes to non-athletes found that athletes consistently outperformed in working memory tasks, with the advantage most notable over sedentary individuals. The stud… [+4925 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Galaxy --Great Discoveries Channel"
-      },
-      "author": null,
-      "title": "Extinct for 16 Million Years, This Ancient Species Returns to Stun Scientists! - The Daily Galaxy --Great Discoveries Channel",
-      "description": "A fossil unearthed in Australia has stunned scientists—a species thought extinct for 16 million years has re-emerged. What secrets does this prehistoric sawfly hold about Earth's distant past—and its future? The answers might just rewrite what we know about e…",
-      "url": "https://dailygalaxy.com/2024/11/extinct-for-16-million-years-this-ancient-species-returns-to-stun-scientists/",
-      "urlToImage": "https://bunny-wp-pullzone-eduayjtzy5.b-cdn.net/wp-content/uploads/2024/11/Montage-of-the-ancient-Baladi-Warru.jpg",
-      "publishedAt": "2024-11-21T14:25:00Z",
-      "content": "Scientists have been stunned by a major breakthrough in Australia: an ancient species thought to be extinct for 16 million years has been unearthed in extraordinary detail. The fossil site of McGrath… [+2793 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Mechanics"
-      },
-      "author": "Tim Newcomb",
-      "title": "Hiker Steps into 280-Million-Year-Old Fossilized World in Italian Alps - Yahoo! Voices",
-      "description": "Experts think the find will “transform itself into a training ground for researchers and students.”",
-      "url": "https://www.popularmechanics.com/science/a62965452/hiker-discovered-280-million-year-old-lost-world/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KqSCrybX5byIMfDMYxPd.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/popular_mechanics_642/21d0bd1697a2257a3ac9f9455c799a95",
-      "publishedAt": "2024-11-21T14:00:00Z",
-      "content": "<ul><li>A stunning fossilized world containing remnants of amphibians, skin prints, plants, and seeds was discovered in the melting glacier ice of the Italian Alps.\r\n</li><li>Experts date the now-exp… [+4181 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Samantha Mathewson",
-      "title": "Will astronauts need to be rescued from the moon? NASA wants to be prepared just in case - Space.com",
-      "description": "Upcoming moon missions will need to plan for how to respond to emergencies on the lunar surface.",
-      "url": "https://www.space.com/space-exploration/artemis/will-astronauts-need-to-be-rescued-from-the-moon-nasa-wants-to-be-prepared-just-in-case",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZiHQHNKLps7ibH7QoeCtVc-1200-80.jpg",
-      "publishedAt": "2024-11-21T14:00:00Z",
-      "content": "NASA wants ideas on how to create emergency response plans for future missions to the moon.\r\nThe space agency's South Pole Safety challenge focuses on the development of innovative solutions for a co… [+2969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Victoria Atkinson",
-      "title": "Is light a particle or a wave? - Livescience.com",
-      "description": "Does light behave more like a particle, or like a wave? Today we know the surprising answer. Here's why it took so long to get there.",
-      "url": "https://www.livescience.com/physics-mathematics/particle-physics/is-light-a-particle-or-a-wave",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BpsG7GoD9grkFm45Rdt9v9-1200-80.jpg",
-      "publishedAt": "2024-11-21T14:00:00Z",
-      "content": "From the most distant stars in the sky to the screen in front of your face, light is everywhere. But the exact nature of light, and how it travels, has long puzzled scientists. One question in partic… [+4228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Galaxy --Great Discoveries Channel"
-      },
-      "author": null,
-      "title": "James Webb Telescope Locates the First-Ever 'Einstein Zig-Zag', a Potential Key to Saving Cosmology - The Daily Galaxy --Great Discoveries Channel",
-      "description": "The James Webb Space Telescope has made an extraordinary discovery—a phenomenon predicted by Einstein but never observed before. This rare cosmic event could hold the key to unraveling some of the universe’s deepest mysteries.",
-      "url": "https://dailygalaxy.com/2024/11/james-webb-telescope-locates-the-first-ever-einstein-zig-zag-a-potential-key-to-saving-cosmology/",
-      "urlToImage": "https://bunny-wp-pullzone-eduayjtzy5.b-cdn.net/wp-content/uploads/2024/11/a-Rare-Einstein-zig-zag-lens-formed-by-2-galaxies.jpg",
-      "publishedAt": "2024-11-21T13:30:00Z",
-      "content": "The James Webb Space Telescope (JWST) has achieved a groundbreaking discovery, revealing the first-ever instance of an “Einstein zig-zag“. This previously theoretical phenomenon involves light bendin… [+2770 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Korin Miller",
-      "title": "Hot tub or cold plunge? Experts say there are benefits — and risks — to both. - Yahoo Life",
-      "description": "How a hot tub stacks up against taking a cold plunge — and what a new study says about the benefits of doing water therapy after a workout.",
-      "url": "https://www.yahoo.com/lifestyle/hot-tub-or-cold-plunge-experts-say-there-are-benefits--and-risks--to-both-130023158.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/q8TNM2ngfESuOXm4DqKmJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/9f602c20-a77f-11ef-9ffc-8ed5967b112d",
-      "publishedAt": "2024-11-21T13:00:23Z",
-      "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nI… [+6347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Isaac Schultz",
-      "title": "First Detailed Image of a Star Outside Our Galaxy Is Out of This World - Gizmodo",
-      "description": "The star offers hints at how huge stars shed gas and dim towards the ends of their lives.",
-      "url": "https://gizmodo.com/astronomers-take-remarkably-zoomed-in-image-of-red-supergiant-star-2000527117",
-      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/star-up-close-illustration.jpg",
-      "publishedAt": "2024-11-21T13:00:17Z",
-      "content": "160,000 light-years away, a star 2,000 times the mass of the Sun is dying. Now, that star has been imaged as never beforeextremely up-closerevealing details of the star’s activity and surrounding str… [+3606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Galaxy --Great Discoveries Channel"
-      },
-      "author": null,
-      "title": "Straight out of science fiction: NASA's Juno spacecraft captures image of a dolphin on Jupiter's surface - The Daily Galaxy --Great Discoveries Channel",
-      "description": "NASA’s Juno spacecraft captured an image of a dolphin-shaped cloud on Jupiter, blending science and art. This fleeting formation, caused by Jupiter’s turbulent storms, showcases the planet’s dynamic atmosphere and highlights pareidolia, where random patterns …",
-      "url": "https://dailygalaxy.com/2024/11/straight-out-of-science-fiction-nasas-juno-spacecraft-captures-image-of-a-dolphin-on-jupiters-surface/",
-      "urlToImage": "https://bunny-wp-pullzone-eduayjtzy5.b-cdn.net/wp-content/uploads/2024/11/straight-out-of-science-fiction-nasas-juno-spacecraft-captures-image-of-a-dolphin-on-jupiters-surface.jpg",
-      "publishedAt": "2024-11-21T12:30:00Z",
-      "content": "The NASA Juno spacecraft has once again amazed the world, capturing an extraordinary image of Jupiter’s atmosphere. This time, a dolphin-shaped cloud formation was spotted swimming along the gas gian… [+3384 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Eric Berger",
-      "title": "As NASA increasingly relies on commercial space, there are some troubling signs - Ars Technica",
-      "description": "“The government’s really got to look at itself.”…",
-      "url": "https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/ltv-2022-closeup-final-1-1152x648.webp",
-      "publishedAt": "2024-11-21T12:00:45Z",
-      "content": null
+      "title": "Study Reveals Axons Are Like \"Pearls on a String\" - Neuroscience News",
+      "description": "A new study challenges the long-held belief that axons, brain cell extensions, are tube-like, revealing instead a \"pearl-on-a-string\" structure.",
+      "url": "https://neurosciencenews.com/axons-pearl-shape-neuroscience-28151/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/axon-shape-neuroscience.jpg",
+      "publishedAt": "2024-12-02T17:09:38Z",
+      "content": "Summary: A new study challenges the long-held belief that axons, brain cell extensions, are tube-like, revealing instead a “pearl-on-a-string” structure.\r\nUsing advanced freezing electron microscopy,… [+8695 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Hackaday"
       },
-      "author": "Tom Nardi",
-      "title": "Measuring The Mighty Roar Of SpaceX’s Starship Rocket - Hackaday",
-      "description": "SpaceX’s Starship is the most powerful launch system ever built, dwarfing even the mighty Saturn V both in terms of mass and total thrust. The scale of the vehicle is such that concerns have …",
-      "url": "https://hackaday.com/2024/11/21/measuring-the-mighty-roar-of-spacexs-starship-rocket/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/11/ssloud_feat.jpg",
-      "publishedAt": "2024-11-21T12:00:00Z",
-      "content": "SpaceX’s Starship is the most powerful launch system ever built, dwarfing even the mighty Saturn V both in terms of mass and total thrust. The scale of the vehicle is such that concerns have been rai… [+2428 chars]"
+      "author": "Danie Conradie",
+      "title": "Small Feathers, Big Effects: Reducing Stall Speeds With Strips Of Plastic - Hackaday",
+      "description": "Birds have long been our inspiration for flight, and researchers at Princeton University have found a new trick in their arsenal: covert feathers. These small feathers on top of birds’ wings …",
+      "url": "https://hackaday.com/2024/12/02/small-feathers-big-effects-reducing-stall-speeds-with-strips-of-plastic/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/11/covert-flaps.png",
+      "publishedAt": "2024-12-02T16:30:00Z",
+      "content": "Birds have long been our inspiration for flight, and researchers at Princeton University have found a new trick in their arsenal: covert feathers. These small feathers on top of birds’ wings lay flat… [+1096 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ashley Strickland",
+      "title": "A galaxy named for its resemblance to a sombrero looks distinctly different in new image - CNN",
+      "description": "The Sombrero galaxy looks entirely different in a new image by the James Webb Space Telescope. Instead of a Mexican hat, it appears more like an archery target.",
+      "url": "https://www.cnn.com/2024/12/02/science/sombrero-galaxy-image-nasa-webb/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/webb-stsci-01jcgz71j2wy7vrn04ypbyb5x4-2k.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-02T16:29:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe James Webb Space Telescope has captured a surprisi… [+3294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Andrew Jones",
+      "title": "Fruit flies in space! Chinese astronauts show off experiment on Tiangong space station (video) - Space.com",
+      "description": "The study aims to assess the impacts of sub-magnetic fields and microgravity on the insects.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/fruit-flies-in-space-chinese-astronauts-show-off-experiment-on-tiangong-space-station-video",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xzpKL7TXPz9twmyGtpkurk-1200-80.jpg",
+      "publishedAt": "2024-12-02T16:17:07Z",
+      "content": "China's Shenzhou 19 astronauts have some winged companions to oversee aboard the country's space station.\r\nThe astronauts arrived\r\n at the Tiangong space station\r\n on Oct. 29, beginning their six-mon… [+2460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASA"
+      },
+      "author": "Tiernan P. Doyle",
+      "title": "NASA to Cover its 31st SpaceX Resupply Mission Station Departure - NASA",
+      "description": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-its-31st-spacex-resupply-mission-station-departure/",
+      "urlToImage": "https://www.nasa.gov/wp-content/uploads/2024/12/the-spacex-crew-dragon-endeavour-departs-the-international-space-station.jpg",
+      "publishedAt": "2024-12-02T15:49:10Z",
+      "content": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station on Thursday, Dec. 5, for its retu… [+4299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Stephanie Pappas",
+      "title": "China reveals secrets of 1st sample taken from the far side of the moon — and it contains a volcanic surprise - Space.com",
+      "description": "Active volcanoes were erupting on the far side of the moon 2.8 billion years ago, the first lunar samples returned from the far side reveal.",
+      "url": "https://www.space.com/the-universe/moon/china-reveals-secrets-of-1st-sample-taken-from-the-far-side-of-the-moon-and-it-contains-a-volcanic-surprise",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EUJ4aRUqwK5jCGvqHMZRXB-1200-80.jpg",
+      "publishedAt": "2024-12-02T15:00:00Z",
+      "content": "The first analysis of lava samples from the moon's far side reveals that volcanoes were erupting there 2.8 billion years ago.\r\nThe moon\r\n is tidally locked with Earth, meaning the same side always fa… [+2911 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "author": "Matt Growcoot",
+      "title": "Photographer Captures Mysterious Blue Light During Avalanche - PetaPixel",
+      "description": "It's thought to be an arcane natural phenomenon.",
+      "url": "https://petapixel.com/2024/12/02/photographer-captures-mysterious-blue-light-during-avalanche/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2024/12/Bluelights-arrow.jpg",
+      "publishedAt": "2024-12-02T14:24:29Z",
+      "content": "A blue light temporarily flashes out of Mount Xiannairi during an avalanche.\r\nWhen Chinese astrophotographer Shengyu Li was setting up his camera and tripod to capture star trails, he unexpectedly sa… [+2197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Yang Gao",
+      "title": "Trump may cancel Nasa’s powerful SLS Moon rocket – here’s what that would mean for Elon Musk and the future of space travel - The Conversation",
+      "description": "The Space Launch System is a crucial part of America’s plans to return to the Moon.",
+      "url": "https://theconversation.com/trump-may-cancel-nasas-powerful-sls-moon-rocket-heres-what-that-would-mean-for-elon-musk-and-the-future-of-space-travel-244762",
+      "urlToImage": "https://images.theconversation.com/files/635304/original/file-20241129-15-r0g3wx.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C1034%2C517&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-12-02T13:04:40Z",
+      "content": "Since Donald Trumps recent electoral victory, rumours and speculation have circulated that Nasas giant Moon rocket, the Space Launch System (SLS), could be under threat. The rocket is one of several … [+7060 chars]"
     },
     {
       "source": {
@@ -177,90 +242,25 @@
         "name": "The Daily Galaxy --Great Discoveries Channel"
       },
       "author": null,
-      "title": "NASA is offering $3 million to those who can help solve this problem - The Daily Galaxy --Great Discoveries Channel",
-      "description": "NASA has launched the LunaRecycle Challenge, a groundbreaking contest with a $3 million prize pool, aiming to tackle waste management for long-term lunar missions. Could your idea shape the future of space exploration and recycling technology?",
-      "url": "https://dailygalaxy.com/2024/11/nasa-is-offering-3-million-to-those-who-can-help-solve-this-problem/",
-      "urlToImage": "https://bunny-wp-pullzone-eduayjtzy5.b-cdn.net/wp-content/uploads/2024/11/nasa-is-offering-3-million-to-those-who-can-help-solve-this-problem.jpg",
-      "publishedAt": "2024-11-21T12:00:00Z",
-      "content": "The NASA has unveiled an ambitious challenge aimed at tackling a crucial aspect of future lunar missions: waste management. Dubbed the LunaRecycle Challenge, the competition invites innovative minds … [+2658 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Russell McLendon",
-      "title": "Venting Doesn't Reduce Anger, But Something Else Does, Study Shows - ScienceAlert",
-      "description": "Venting when angry seems sensible.",
-      "url": "https://www.sciencealert.com/venting-doesnt-reduce-anger-but-something-else-does-study-shows",
-      "urlToImage": "https://www.sciencealert.com/images/2024/03/AngrySideFaceWearingSuit.jpg",
-      "publishedAt": "2024-11-21T11:00:28Z",
-      "content": "Venting when angry seems sensible. Conventional wisdom suggests expressing anger can help us quell it, like releasing steam from a pressure cooker.\r\nBut this common metaphor is misleading, according … [+5235 chars]"
+      "title": "Man Keeps a Rock for Years Hoping It’s Gold—But It’s Far More Valuable! - The Daily Galaxy --Great Discoveries Channel",
+      "description": "In 2015, while prospecting in Maryborough Regional Park near Melbourne, Australia, David Hole unearthed a heavy rock that he believed was a gold nugget. The",
+      "url": "https://dailygalaxy.com/2024/12/man-keeps-a-rock-for-years-hoping-its-gold-but-its-far-more-valuable/",
+      "urlToImage": "https://bunny-wp-pullzone-eduayjtzy5.b-cdn.net/wp-content/uploads/2024/12/The-Maryborough-meteorite-with-a-slab-cut-from-the-mass-1.jpg",
+      "publishedAt": "2024-12-02T13:00:00Z",
+      "content": "In 2015, while prospecting in Maryborough Regional Park near Melbourne, Australia, David Hole unearthed a heavy rock that he believed was a gold nugget. The region is historically rich in gold, makin… [+3566 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Space.com"
       },
-      "author": "Mike Wall",
-      "title": "SpaceX launching 24 Starlink satellites from Florida today - Space.com",
-      "description": "Liftoff occurred at 11:07 a.m. ET today (Nov. 21).",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-24-starlink-satellites-from-florida-today",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ijn7z3HTacKXr8xmYEoTmC-1200-80.jpg",
-      "publishedAt": "2024-11-21T11:00:00Z",
-      "content": "SpaceX launched 24 more of its Starlink internet satellites from Florida's Space Coast this morning (Nov. 21), continuing a very busy stretch for the company.\r\nA Falcon 9 rocket carrying the Starlink… [+1725 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Ben Turner",
-      "title": "'A harbinger of what's to come:' NASA satellites show massive drop in global freshwater levels - Livescience.com",
-      "description": "NASA satellites discovered that Earth's surface has lost enough water to empty Lake Erie two and a half times since 2015. And the problem could be here to stay.",
-      "url": "https://www.livescience.com/planet-earth/rivers-oceans/a-harbinger-of-whats-to-come-nasa-satellites-show-massive-drop-in-global-freshwater-levels",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vhmsbVA9dueaN9rA8EN6UD-1200-80.jpg",
-      "publishedAt": "2024-11-21T10:25:27Z",
-      "content": "Earth's total fresh water has plummeted to an alarming new low, and it could be a sign that climate change is pushing the world into a dangerous phase of global drying, according to a new study.\r\nSin… [+3056 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IFLScience"
-      },
-      "author": "Tom Hale",
-      "title": "60,000-Year-Old Glue-Making Oven Found In Neanderthals' Seaside Cave - IFLScience",
-      "description": "Neanderthals are often assumed to be dim-witted, but this suggests they shouldn't all be tarred with that brush.",
-      "url": "https://www.iflscience.com/60000-year-old-glue-making-oven-found-in-neanderthals-seaside-cave-76875",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/76875/aImg/80367/vanguard-cave-meta.jpg",
-      "publishedAt": "2024-11-21T07:19:48Z",
-      "content": "At a well-known hangout of Neanderthals, archaeologists have uncovered a structure they believe was used to cook up a form of prehistoric glue.\r\nThe discovery was made in Vanguard Cave, part of Gorha… [+2478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "The Periodic Table Just Got Wilder: Scientists Unveil the Secrets of the Heaviest Element Ever – Moscovium - SciTechDaily",
-      "description": "Research on moscovium and nihonium shows they are more reactive than flerovium and subject to notable relativistic effects, broadening our understanding of superheavy elements and their potential uses. An international team led by scientists from GSI/FAIR in …",
-      "url": "https://scitechdaily.com/the-periodic-table-just-got-wilder-scientists-unveil-the-secrets-of-the-heaviest-element-ever-moscovium/",
-      "urlToImage": "https://scitechdaily.com/images/Data-Technology-Particle-Element.jpg",
-      "publishedAt": "2024-11-21T07:16:12Z",
-      "content": "Moscovium and nihonium have been identified as more reactive than flerovium, demonstrating the significance of relativistic effects in superheavy elements.\r\nResearch on moscovium and nihonium shows t… [+7931 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Julian Dossett",
-      "title": "NASA's Curiosity rover captures 360-degree view of Mars — and finds strange sulfur stones - Space.com",
-      "description": "The 360 degree view reveals new mysteries from the floor of the Gediz Vallis.",
-      "url": "https://www.space.com/the-universe/mars/nasas-curiosity-rover-captures-360-degree-view-of-mars-and-finds-strange-sulfur-stones",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/go72vbYBoxAzGhmUUGMUB9-1200-80.jpg",
-      "publishedAt": "2024-11-21T01:00:58Z",
-      "content": "For twelve years, we've watched Curiosity crawl its way over the rocky surface of Mars, decoding mysteries of the Red Planet and broadcasting back home pictures and data from the strange Martian envi… [+3813 chars]"
+      "author": "Sharmila Kuthunur",
+      "title": "Why the highly-anticipated 'new star' has yet to pop up in the night sky - Space.com",
+      "description": "\"We're watching and waiting.\"",
+      "url": "https://www.space.com/the-universe/stars/why-the-highly-anticipated-new-star-has-yet-to-pop-up-in-the-night-sky",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AVkDTsuytqt6Dta7Ev5wrk-1200-80.gif",
+      "publishedAt": "2024-12-02T13:00:00Z",
+      "content": "The highly-anticipated \"guest star\" of the night sky has yet to deliver its grand performance — but we have an update.\r\nFor a quick recap, astronomers and stargazers have been gazing toward the Coron… [+5180 chars]"
     }
   ]
 }
