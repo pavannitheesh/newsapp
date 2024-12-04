@@ -1,266 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 30,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Sec.gov"
+        "name": "Yahoo Entertainment"
       },
-      "author": null,
-      "title": "SEC Chair Gensler to Depart Agency on January 20 - SEC.gov",
-      "description": null,
-      "url": "https://www.sec.gov/newsroom/press-releases/2024-182",
-      "urlToImage": null,
-      "publishedAt": "2024-11-21T18:01:14Z",
-      "content": "Washington D.C., Nov. 21, 2024 The Securities and Exchange Commission today announced that its 33rd Chair, Gary Gensler, will step down from the Commission effective at 12:00 pm on January 20, 2025. … [+8823 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Larry Neumeister, The Associated Press",
-      "title": "Archegos founder Bill Hwang sentenced to 18 years for fraud that cost global investment banks billions - Fortune",
-      "description": "For fraud that cost global investment banks billions",
-      "url": "https://fortune.com/2024/11/21/archegos-founder-bill-hwang-sentenced-18-years-fraud-cost-investment-banks-billions/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/AP24325782285431-e1732195750816.jpg?resize=1200,600",
-      "publishedAt": "2024-11-21T17:48:47Z",
-      "content": "The founder of Archegos Capital Management, a hedge fund, was sentenced to 18 years in prison on Wednesday for securities and market manipulation fraud in a scheme that prosecutors said cost global i… [+2013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "Martin Baccardax",
-      "title": "Goldman Sachs analyst leads Nvidia price target overhauls after earnings - TheStreet",
-      "description": "Nvidia's near-term outlook may have disappointed markets, but analysts are taking a different view.",
-      "url": "https://www.thestreet.com/investing/goldman-sachs-analyst-leads-nvidia-price-target-overhauls-after-earnings",
-      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA5MTY2MzEzMzgwMTI4NjEy/nvidia-kl_11.jpg",
-      "publishedAt": "2024-11-21T16:58:53Z",
-      "content": "Updated at 1:52 PM EST\r\nNvidia shares edged higher in late Thursday trading after the world's biggest company posted another impressive set of quarterly earnings figures, tied to what it called \"stag… [+5812 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Barron's",
-      "title": "MicroStrategy Stock: Why Shares Are Down After a Citron Research Tweet - Barron's",
-      "description": null,
-      "url": "https://www.barrons.com/articles/microstrategy-citron-research-stock-price-bitcoin-66048ee9",
-      "urlToImage": null,
-      "publishedAt": "2024-11-21T16:40:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The New York Times",
-      "title": "Automakers Want Trump to Keep Federal E.V. Regulations in Place - The New York Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZk5maER5ZVFoQWZUYlhzaFdqTjE5UGx0OFhOdGt5ZUFRV3k2Z19KWGZjaTM0enhqNTdhd2E2TkpHUk9IUmppamVTci00YmZ6aHlEdGtzT3hYd05RUnhYb2N5elVWaEpLcFlTX1lCazR3NHlyRXZlb1ZPY3BDSTdQd3VQSHd3UQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-11-21T16:34:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Eleanor Pringle",
-      "title": "$749 million ‘treasure hunt’: Crypto miner fights to retrieve Bitcoin fortune he claims was accidentally thrown in landfill - Fortune",
-      "description": "Bitcoin miner James Howells takes Newport City Council to court over lost cryptocurrency hard drive.",
-      "url": "https://fortune.com/2024/11/21/james-howells-bitcoin-hard-drive-lost-millions-newport-city-council/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/Copy-of-FeatTemplate-66.jpg?resize=1200,600",
-      "publishedAt": "2024-11-21T16:30:31Z",
-      "content": "An early Bitcoin miner says he lost a fortune worth more than $700 million after his partner accidentally threw a hard drive containing 8,000 coins in a landfill dumpster more than a decade ago.James… [+4337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": "PATRICK SEITZ, Investor's Business Daily",
-      "title": "Nvidia Guidance Called Conservative As Blackwell AI Chip Production Ramps - Investor's Business Daily",
-      "description": "Nvidia stock wavered Thursday as investors considered quibbles with the AI chipmaker's beat-and-raise earnings report.",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-wall-street-reactions-q3-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-Nvidia-h200nvl-01-company.jpg",
-      "publishedAt": "2024-11-21T16:24:00Z",
-      "content": "Nvidia (NVDA) stock wavered Thursday as investors considered quibbles with the AI chipmaker's beat-and-raise earnings report.\r\nThe Santa Clara, Calif.-based company late Wednesday reported better-tha… [+3968 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Romain Dillet",
-      "title": "Apple Pay, Cash App, PayPal and other apps to be treated more like banks - TechCrunch",
-      "description": "Some digital services look like banks, act like banks, but aren’t banks -- meaning they can, for instance, close down your account without notice. Or be",
-      "url": "https://techcrunch.com/2024/11/21/apple-pay-paypal-cash-app-will-be-treated-more-like-banks/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1363000436.jpg?resize=1200,800",
-      "publishedAt": "2024-11-21T16:20:37Z",
-      "content": "Some digital services look like banks, act like banks, but arent banks — meaning they can, for instance, close down your account without notice. Or be difficult to contact when you want to dispute fr… [+749 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "William Gavin",
-      "title": "Bezos denies Musk's claim he told people to sell Tesla and SpaceX stock since Trump would lose - Quartzy",
-      "description": "“Nope. 100% not true,” Bezos wrote in a rare post on social media from the Amazon founder",
-      "url": "https://qz.com/jeff-bezos-musk-trump-sell-tesla-spacex-stock-amazon-1851704886",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/983ad7a76cbed1b1cc992d690f983446.jpg",
-      "publishedAt": "2024-11-21T16:02:00Z",
-      "content": "In This Story\r\nJeff Bezos has officially thrown cold water on Elon Musks latest claim about his billionaire rival. \r\nIn a late-night post on Wednesday, the Tesla (TSLA+0.29%\r\n) and SpaceX CEO claimed… [+2186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Taylor Herzlich",
-      "title": "McDonald’s to make menu affordable again with $5 Meal Deal extension, ‘buy one get one’ options - New York Post ",
-      "description": "The world’s largest fast-food chain is reportedly extending its popular meal deal and launching a new menu option for customers looking for deals.",
-      "url": "https://nypost.com/2024/11/21/business/mcdonalds-to-extend-5-meal-deal-launch-mcvalue-menu/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/94073934.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-11-21T15:54:00Z",
-      "content": "McDonalds plans to bolster its wildly successful meal deal with the addition of a McValue initiative in a bid to lure cost-conscious customers and restore its reputation after a deadly a E. coli outb… [+2615 chars]"
+      "author": "Britt Ross",
+      "title": "The best Cyber Monday 2024 deals to shop while you still can from Amazon, Apple, Macy's, Walmart, Target, Wayfair and more - Yahoo Life",
+      "description": "Know your ABCs: Deals on Apple, Bissell, Cuisinart and beyond can be yours — right now!",
+      "url": "https://www.yahoo.com/lifestyle/live/the-best-cyber-monday-2024-deals-to-shop-while-you-still-can-from-amazon-apple-macys-walmart-target-wayfair-and-more-002616614.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-11/44ea5280-af26-11ef-b9f9-f398e2c70c64",
+      "publishedAt": "2024-12-03T01:30:35Z",
+      "content": "We have a question for you: When is Monday better than Friday? Never, that's when! Okay, well maybe that's not totally true. Take, for instance, Cyber Monday, which has somehow managed to see the sav… [+30598 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Diana Olick",
-      "title": "Home sales surged in October, just before mortgage rates jumped - CNBC",
-      "description": "Sales were 2.9% higher than October of last year, marking the first annual increase in over three years.",
-      "url": "https://www.cnbc.com/2024/11/21/home-sales-october.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107405140-1713884050236-gettyimages-1451825889-onecms_96cf1be3-baa9-402b-8001-9110a04041c6.jpeg?v=1726622168&w=1920&h=1080",
-      "publishedAt": "2024-11-21T15:00:01Z",
-      "content": "A sharp drop in mortgage rates brought homebuyers off the fence in October after a slow summer.\r\nSales of previously owned homes last month rose 3.4% from September to a seasonally adjusted, annualiz… [+2600 chars]"
+      "author": "Michael Wayland",
+      "title": "Jaguar reveals 'Type 00' concept car, first under controversial new brand identity - CNBC",
+      "description": "Famed British carmaker Jaguar revealed its new vehicle design direction Monday night with the introduction of an all-electric concept car called \"Type 00.\"",
+      "url": "https://www.cnbc.com/2024/12/02/jaguar-concept-car-type-00-car-new-brand.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108070201-1733178920262-00.jpeg?v=1733181686&w=1920&h=1080",
+      "publishedAt": "2024-12-03T01:00:00Z",
+      "content": "Famed British carmaker Jaguar revealed its new vehicle design direction Monday night with the introduction of an all-electric concept car called \"Type 00.\"\r\nThe vehicle, pronounced \"Type Zero Zero,\" … [+2601 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "[Removed]"
       },
-      "author": "Nellie Andreeva",
-      "title": "The Streaming Divide: How NBCU’s Entertainment Networks Ended Up On Different Sides In Comcast Spinoff After Years Of Integration - Deadline",
-      "description": "Comcast's decision to spin off most of its cable networks has split NBCUniversal linear networks' into two groups. Here is why Bravo is staying.",
-      "url": "http://deadline.com/2024/11/nbcuniversal-cable-networks-spinoff-bravo-staying-1236182691/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/NBC.jpg?w=1024",
-      "publishedAt": "2024-11-21T15:00:00Z",
-      "content": "Comcast’s decision to spin off most of its cable networks has split NBCUniversal‘s linear networks into two groups, with NBC and Bravo (as well as Spanish-language broadcaster Telemundo) staying with… [+5573 chars]"
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-03T00:24:00Z",
+      "content": "[Removed]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Reuters",
-      "title": "Snowflake shares surge on rosy forecast, AI deal with Anthropic - Yahoo Finance",
-      "description": "The company, whose shares have fallen 35% this year, is on track for its best day since going public in 2020.  The Bozeman, Montana-based company's results...",
-      "url": "https://finance.yahoo.com/news/snowflake-shares-surge-rosy-forecast-142949680.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/1ddb664513fd23e141f11783e1f8b947",
-      "publishedAt": "2024-11-21T14:29:49Z",
-      "content": "(Reuters) -Snowflake's shares surged more than 28% on Thursday after the data analytics provider raised its annual product revenue forecast, signaling growing demand for cloud-based data storage and … [+1566 chars]"
+      "author": "Gillian Tan and Katie Roof",
+      "title": "SpaceX Weighs Tender Offer at Roughly $350 Billion Valuation - Yahoo Finance",
+      "description": "(Bloomberg) -- SpaceX is in discussions to sell insider shares that could boost the value of Elon Musk’s rocket and satellite company to around $350 billion,...",
+      "url": "https://finance.yahoo.com/news/spacex-weighs-tender-offer-roughly-233517767.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J0H3Z8ffHkQtnC6ko_afOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/6e690773c2fe863cce723c8c45b9ec2c",
+      "publishedAt": "2024-12-02T23:35:17Z",
+      "content": "(Bloomberg) -- SpaceX is in discussions to sell insider shares that could boost the value of Elon Musks rocket and satellite company to around $350 billion, according to people familiar with the matt… [+1553 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investopedia"
+        "name": "Tipranks.com"
       },
-      "author": "Timothy Smith",
-      "title": "Nvidia Stock Price Levels to Watch After Earnings Top Expectations - Investopedia",
-      "description": "Nvidia shares moved higher in premarket trading Thursday after the AI investor favorite released results and an outlook that surpassed Wall Street expectations. Monitor these important chart levels.",
-      "url": "https://www.investopedia.com/nvidia-stock-price-levels-to-watch-after-earnings-top-expectations-8749191",
-      "urlToImage": "https://www.investopedia.com/thmb/HJEIQvBlP3ZB95If9-Ll3AnlegA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NVDAChart-463cd10fa3b24a9a80d7355f00a92a7c.GIF",
-      "publishedAt": "2024-11-21T14:29:06Z",
-      "content": "<ul><li>Nvidia shares moved higher in premarket trading Thursday after the AI investor favorite released quarterly results and an outlook that surpassed Wall Street expectations.</li><li>Trading volu… [+3480 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Gautam Adani: US charges Indian billionaire with fraud - BBC.com",
-      "description": "The Adani Group has denied the allegations of bribery and fraud, calling them \"baseless\".",
-      "url": "https://www.bbc.com/news/articles/c78dkgm9e7ro",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27e9/live/33f8b140-a785-11ef-a968-c7efee733ac0.jpg",
-      "publishedAt": "2024-11-21T14:23:37Z",
-      "content": "Mr Adani's business empire extends from ports and airports to renewable energy\r\nIndian billionaire Gautam Adani has been charged with fraud in the US, which has accused him of orchestrating a $250m (… [+5180 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": "SCOTT LEHTONEN, Investor's Business Daily",
-      "title": "Dow Jones Futures Rise Ahead Of Jobless Claims; Nvidia Ventures Into The Black - Investor's Business Daily",
-      "description": "Key earnings movers include Nvidia, Palo Alto Networks and Snowflake.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nvidia-stock-nvda-sp500-nasdaq/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/04/Stock-Nvidia-GeForcegpu-01-company.jpg",
-      "publishedAt": "2024-11-21T13:21:00Z",
-      "content": "The Dow Jones Industrial Average and other major stock indexes traded mixed Thursday as investors traded up shares of Nvidia (NVDA). Meanwhile, the Labor Department's initial unemployment claims unex… [+6302 chars]"
+      "author": "Gabe Ross",
+      "title": "‘Time to Jump Ship,’ Says Investor About MicroStrategy Stock - TipRanks",
+      "description": "MicroStrategy (NASDAQ:MSTR) shares blasted 58% in November, buoyed by Bitcoin’s recent price surge, with Donald Trump’s electoral victory further fueling the rally....",
+      "url": "https://www.tipranks.com/news/time-to-jump-ship-says-investor-about-microstrategy-stock",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2021/11/MSTR-BTC-750x406.jpg",
+      "publishedAt": "2024-12-02T23:29:07Z",
+      "content": ""
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Jamie Gumbrecht",
-      "title": "Ground beef recalled due to possible E. coli contamination - CNN",
-      "description": "Wolverine Packing Co. is recalling more than 167,000 pounds of ground beef shipped to restaurants due to possible E. coli contamination.",
-      "url": "https://www.cnn.com/2024/11/21/health/ground-beef-recall-ecoli-restaurants/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-958146390-20241121123241630.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-11-21T13:10:00Z",
-      "content": "Wolverine Packing Co. is recalling more than 167,000 pounds of ground beef shipped to restaurants due to possible E. coli contamination.\r\nSo far, 15 patients have been reported ill in Minnesota, with… [+1249 chars]"
+      "author": "Pete Muntean, Saskya Vandoorne, Alexandra Skores",
+      "title": "TSA has reviewed JFK airport video as they await return of stowaway from Paris - CNN",
+      "description": "Authorities in the United States have reviewed airport security footage as they continue to investigate how a woman sneaked on board a Delta Air Lines flight from New York to Paris without a ticket last Tuesday –– one of the busiest travel days of the year.",
+      "url": "https://www.cnn.com/2024/12/02/us/airport-delta-stowaway-to-paris/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1791680123.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-02T22:29:00Z",
+      "content": "Authorities in the United States have reviewed airport security footage as they continue to investigate how a woman sneaked on board a Delta Air Lines flight from New York to Paris without a ticket l… [+3397 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "The Seattle Times"
       },
-      "author": "Millie Davis-Williams",
-      "title": "Black Friday Amazon deals are officially live — 39 deals I'd buy with my own money - Tom's Guide",
-      "description": "Amazon’s Black Friday sales start now — check out the deals I’m adding to my cart",
-      "url": "https://www.tomsguide.com/live/news/amazon-black-friday-sales-are-live-now",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9vqzHqkNXdAYgWMoXbhBX-1200-80.jpg",
-      "publishedAt": "2024-11-21T12:43:42Z",
-      "content": "2024-11-21T18:34:02.080Z\r\n(Image credit: Amazon)\r\nTime to refresh your gym wardrobe! Amazon is slashing the price of The Gym People apparel, which as you may have guessed, specializes in apparel for … [+7718 chars]"
+      "author": "Alex Halverson",
+      "title": "Alaska Air briefly grounds flights. IT issue snarls Cyber Monday orders - The Seattle Times",
+      "description": "An IT issue caused a “significant disruption” to Alaska Air’s operations, briefly grounding flights.",
+      "url": "https://www.seattletimes.com/business/boeing-aerospace/alaska-air-briefly-grounds-flights-as-it-issue-snarls-cyber-monday-orders/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/12/12022024_Alaska-Outage_tzr_133104.jpg?d=1200x630",
+      "publishedAt": "2024-12-02T22:13:39Z",
+      "content": "Alaska Airlines grounded flights leaving Seattle for 40 minutes Monday morning due to computer troubles, the company said in an emailed statement.\r\nAn IT issue caused a “significant disruption” to Al… [+901 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "MATT O'BRIEN",
+      "title": "FTC opens Microsoft antitrust investigation that Trump administration must carry on or drop - The Associated Press",
+      "description": "Antitrust enforcers with the Federal Trade Commission have opened a wide-ranging investigation into Microsoft’s business practices, starting off a big legal project that an incoming Trump administration must take up or abandon. The FTC is investigating Micros…",
+      "url": "https://apnews.com/article/microsoft-ftc-antitrust-lina-khan-trump-biden-1b8983bec2ad1b2e943fb25c5b27619b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/26103d2/2147483647/strip/true/crop/3000x1688+0+198/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F6c%2F5b25a0afc30b6be5fa87c2d76e29%2Fb10dbc1be9414283881b1d4ae3a0c049",
+      "publishedAt": "2024-12-02T21:37:00Z",
+      "content": "Antitrust enforcers with the Federal Trade Commission have opened a wide-ranging investigation into Microsofts business practices, starting a big legal project that an incoming Trump administration m… [+1654 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "The Detroit News"
       },
-      "author": "Jeff Cox",
-      "title": "Trump and Fed Chair Powell could be set on a collision course over interest rates - CNBC",
-      "description": "Though Powell became Fed chair in 2018, after Trump nominated him for the position, the two clashed often about the direction of interest rates.",
-      "url": "https://www.cnbc.com/2024/11/21/trump-and-fed-chair-powell-could-be-set-on-a-collision-course-over-rates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104816513-GettyImages-869481258.jpg?v=1732192215&w=1920&h=1080",
-      "publishedAt": "2024-11-21T12:37:12Z",
-      "content": "Jerome Powell and President Donald Trump during a nomination announcement in the Rose Garden of the White House in Washington, D.C., U.S., on Thursday, Nov. 2, 2017.\r\nPresident-elect Donald Trump and… [+5522 chars]"
+      "author": null,
+      "title": "GM sells stake in Ultium Lansing battery plant to partner LG Energy Solution - Detroit News",
+      "description": "Huge Savings: Subscribe today to enjoy sports, entertainment, life, money, tech, and travel news along with videos, apps, and more.",
+      "url": "https://www.detroitnews.com/story/business/autos/general-motors/2024/12/02/gm-sells-stake-in-ultium-lansing-battery-plant-to-partner-lg-energy-solution/76710691007/",
+      "urlToImage": "https://staticassets.gannettdigital.com/gci-static-assets/assets/global/checkout/meta-generic.png",
+      "publishedAt": "2024-12-02T21:08:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Isis Almeida, Alfred Cang",
+      "title": "Cargill to Cut Thousands of Jobs Globally After Profits Shrink - Bloomberg",
+      "description": "Cargill Inc. is cutting thousands of jobs globally after the largest privately held company in the US missed profit targets.",
+      "url": "https://www.bloomberg.com/news/articles/2024-12-02/cargill-to-cut-thousands-of-jobs-globally-after-profits-shrink",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZaaCg1KFvGc/v0/1200x800.jpg",
+      "publishedAt": "2024-12-02T20:55:00Z",
+      "content": "Cargill Inc. is cutting thousands of jobs globally after the largest privately held company in the US missed profit targets.\r\nThe Minneapolis-based firm, the worlds largest agricultural commodities t… [+342 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "MarketWatch"
       },
-      "author": "RYAN DEFFENBAUGH, Investor's Business Daily",
-      "title": "Temu Parent Tumbles On Double Miss - Investor's Business Daily",
-      "description": "PDD Holdings, owner of Temu and Pinduoduo, missed Q3 earnings and sales views.",
-      "url": "https://www.investors.com/news/technology/pdd-stock-q3-2024-earnings-temu-pdd-holdings-news/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/08/Stock-Temuappwebsite-01-adobe.jpg",
-      "publishedAt": "2024-11-21T12:12:00Z",
-      "content": "PDD Holdings (PDD) stock tumbled early Thursday, after the Temu parent company and Chinese e-commerce giant reported third quarter earnings and sales that missed expectations.\r\nXNOW PLAYINGHow To Buy… [+3405 chars]"
+      "author": "MarketWatch",
+      "title": "This move by the stock market’s ‘fear gauge’ is historically bullish for the S&P 500 - MarketWatch",
+      "description": null,
+      "url": "https://www.marketwatch.com/story/this-move-by-the-stock-markets-fear-gauge-is-historically-bullish-for-the-s-p-500-cca3fc2d",
+      "urlToImage": null,
+      "publishedAt": "2024-12-02T20:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aboutamazon.com"
+      },
+      "author": null,
+      "title": "AWS Announces New Data Center Components to Support AI Innovation and Further Improve Energy Efficiency - Amazon Press Release",
+      "description": "New set of flexible data center components will support the next generation of generative AI innovation and provide 12% more compute power, while improving availability and efficiency",
+      "url": "https://press.aboutamazon.com/2024/12/aws-announces-new-data-center-components-to-support-ai-innovation-and-further-improve-energy-efficiency",
+      "urlToImage": "https://assets.aboutamazon.com/dims4/default/b79fdfb/2147483647/strip/true/crop/1320x660+0+42/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F07%2F08%2F232f7d434fdd9622143a76f5c5f4%2Famazon-smile-og-open-graph.jpeg",
+      "publishedAt": "2024-12-02T20:32:20Z",
+      "content": "New set of flexible data center components will support the next generation of generative AI innovation and provide 12% more compute power, while improving availability and efficiency \r\nLAS VEGAS--(B… [+12686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Reuters",
+      "title": "Stellantis CEO Carlos Tavares clashed with board before quitting as shares tumble - New York Post ",
+      "description": "Stellantis is struggling to get rid of overcapacity and bloated inventory in its key North American market, at a time when global demand remains sluggish.",
+      "url": "https://nypost.com/2024/12/02/business/stellantis-shares-tumble-after-ceo-carlos-tavares-abrupt-resignation/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/94629035.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-12-02T20:23:00Z",
+      "content": "Outgoing CEO Carlos Tavares clashed with Stellantis’ board over his plans to quickly turn around the ailing US business by cutting costs, rather than focusing on long-term strategy, investors and ban… [+5217 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Jeff Bezos backs AI chipmaker Tenstorrent - TechCrunch",
+      "description": "Tenstorrent raises nearly $700 million in a Series D round that values the AI hardware company at more than $2.6 billion.",
+      "url": "https://techcrunch.com/2024/12/02/jeff-bezos-backs-ai-chipmaker-tenstorrent/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1767732212.jpg?w=1024",
+      "publishedAt": "2024-12-02T20:22:16Z",
+      "content": "AI hardware startup Tenstorrent raised nearly $700 million in new funding.\r\nTenstorrent raised a $693 million Series D round that values the company at more than $2.6 billion, Bloomberg first reporte… [+747 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Craig Torres, Jonnelle Marte",
+      "title": "Fed’s Waller Says He’s Leaning Toward Rate Cut in December - Bloomberg",
+      "description": "Three Federal Reserve officials on Monday made clear they expect the US central bank to continue cutting interest rates over the next year, but stopped short of saying they are committed to making the next reduction later this month.",
+      "url": "https://www.bloomberg.com/news/articles/2024-12-02/fed-s-waller-says-he-s-leaning-toward-rate-cut-in-december",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixThmXrK3z9A/v1/1200x800.jpg",
+      "publishedAt": "2024-12-02T20:15:00Z",
+      "content": "Three Federal Reserve officials on Monday made clear they expect the US central bank to continue cutting interest rates over the next year, but stopped short of saying they are committed to making th… [+277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Biraajmaan Tamuly",
+      "title": "XRP has ‘FOMO’ target at $6.60 by 2025 — Analyst - Cointelegraph",
+      "description": "With XRP exceeding market expectations over the past few weeks, Jacob Canfield, an independent crypto trader and mentor, said that XRP could rise another 100% from its previous all-time high of $3.40.",
+      "url": "https://cointelegraph.com/news/xrp-has-fomo-target-at-6-60-by-2025-analyst",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-12/0193865b-6df4-7a0b-b1b1-0e07ee007c05",
+      "publishedAt": "2024-12-02T19:52:07Z",
+      "content": "XRP (XRP) registered a 297% uptick in November 2024, its highest monthly return on investment (ROI) since December 2017. The monthly close of $1.95 is also a seven-year high and a break above its 202… [+2893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Broccoli, Carrots and More Recalled Due to E. Coli Contamination—Here's What to Know - EatingWell",
+      "description": "Multiple brands of vegetable medleys sold at Walmart, Sprouts and other retailers were recalled following an E. coli outbreak. Here’s what to know.",
+      "url": "https://www.eatingwell.com/broccoli-carrots-recalled-e-coli-outbreak-8753938",
+      "urlToImage": "https://www.eatingwell.com/thmb/5VoTQyBMM4Re6Nm2qSignnnrcLM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Broccoli-Carrots-and-More-Recalled-Due-to-E-Coli-Contamination-20ea70c74ebb4e7ab6913a9638d0af34.jpg",
+      "publishedAt": "2024-12-02T18:28:33Z",
+      "content": "The Food and Drug Administration just announced an active recall on multiple brands of vegetable medleys. This is an expansion of a global carrot recall that is linked to an E. coli outbreak.\r\nThe fo… [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Vinamrata Chaturvedi",
+      "title": "The Nasdaq hits a new record as Tesla and Intel push tech stocks higher - Quartzy",
+      "description": "November was the best month of the year for both the Dow and the S&P 500",
+      "url": "https://qz.com/nasdaq-hits-a-new-high-tesla-intel-super-micro-computer-1851711305",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f21c4108bd607decd8595a7884805427.jpg",
+      "publishedAt": "2024-12-02T18:22:00Z",
+      "content": "In This Story\r\nThe tech-driven Nasdaq reached a high on Monday, driven by gains by Intel and Tesla (TSLA+3.35%\r\n), getting December off to a good start after a November that was the best month of 202… [+1784 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Alison Sider",
+      "title": "Jammed Thanksgiving Flights Push U.S. Air Travel to Record - The Wall Street Journal",
+      "description": "The 10 busiest days for airport passenger volumes have happened this year, according to TSA",
+      "url": "https://www.wsj.com/business/airlines/jammed-thanksgiving-flights-push-u-s-air-travel-to-record-f52ac8b4",
+      "urlToImage": "https://images.wsj.net/im-13875746/social",
+      "publishedAt": "2024-12-02T18:10:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Pat Gelsinger Suddenly Retires After Three Rough Years as Intel CEO - Gizmodo",
+      "description": "Intel's stock price has seen better days, but Pat Gelsinger has also led the company through numerous scandals with its latest processors.",
+      "url": "https://gizmodo.com/pat-gelsinger-suddenly-retires-after-three-rough-years-as-intel-ceo-2000532939",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/08/IntelCEOBible.jpg",
+      "publishedAt": "2024-12-02T18:03:16Z",
+      "content": "Push-up artist and the main face of Intel for the past three years, Pat Gelsinger, is leaping into retirement effective immediately. The companys CEO had worked with Intel on and off for over three d… [+2973 chars]"
     }
   ]
 }
